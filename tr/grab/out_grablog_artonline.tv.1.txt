@@ -1,0 +1,55 @@
+== artonline.tv part 1/1: days=5 delay=0 connections=5
+[info] starting...
+[info] loading channels...
+[info] found 5 channel(s)
+[info] loading api data...
+[info] creating queue...
+[info] run:
+[info]   [1/25] artonline.tv (ar) - art.# - Nov 14, 2026 (10 programs)
+[info]   [2/25] artonline.tv (ar) - art.# - Nov 17, 2026 (10 programs)
+[info]   [3/25] artonline.tv (ar) - art.#Aflam2 - Nov 14, 2026 (10 programs)
+[info]   [4/25] artonline.tv (ar) - art.#Aflam2 - Nov 15, 2026 (10 programs)
+[info]   [5/25] artonline.tv (ar) - art.# - Nov 18, 2026 (8 programs)
+[info]   [6/25] artonline.tv (ar) - art.# - Nov 16, 2026 (10 programs)
+[info]   [7/25] artonline.tv (ar) - art.# - Nov 15, 2026 (11 programs)
+[info]   [8/25] artonline.tv (ar) - art.#Aflam2 - Nov 16, 2026 (10 programs)
+[info]   [9/25] artonline.tv (ar) - art.#Aflam2 - Nov 17, 2026 (8 programs)
+[info]   [10/25] artonline.tv (ar) - art.#Cinema - Nov 14, 2026 (0 programs)
+[info]   [11/25] artonline.tv (ar) - art.#Aflam2 - Nov 18, 2026 (10 programs)
+[info]   [12/25] artonline.tv (ar) - art.#Cinema - Nov 15, 2026 (0 programs)
+[info]   [13/25] artonline.tv (ar) - art.#Cinema - Nov 16, 2026 (0 programs)
+[info]   [14/25] artonline.tv (ar) - art.#Cinema - Nov 17, 2026 (0 programs)
+[info]   [15/25] artonline.tv (ar) - art.#Cinema - Nov 18, 2026 (0 programs)
+[info]   [16/25] artonline.tv (ar) - art.#Hekayat - Nov 14, 2026 (20 programs)
+[info]   [17/25] artonline.tv (ar) - art.#Hekayat - Nov 15, 2026 (21 programs)
+[info]   [18/25] artonline.tv (ar) - art.#Hekayat - Nov 16, 2026 (24 programs)
+[info]   [19/25] artonline.tv (ar) - art.#Hekayat2 - Nov 14, 2026 (24 programs)
+[info]   [20/25] artonline.tv (ar) - art.#Hekayat2 - Nov 15, 2026 (24 programs)
+[info]   [21/25] artonline.tv (ar) - art.#Hekayat - Nov 17, 2026 (24 programs)
+[info]   [22/25] artonline.tv (ar) - art.#Hekayat - Nov 18, 2026 (24 programs)
+[info]   [23/25] artonline.tv (ar) - art.#Hekayat2 - Nov 16, 2026 (24 programs)
+[info]   [24/25] artonline.tv (ar) - art.#Hekayat2 - Nov 17, 2026 (24 programs)
+[info]   [25/25] artonline.tv (ar) - art.#Hekayat2 - Nov 18, 2026 (24 programs)
+[info]   saving to "/home/runner/work/SaadEPG-data/SaadEPG-data/work/out_artonline.tv.1.xml"...
+[success]   done in 00h 00m 01s
+1/5 channels without programmes
+== retry
+[info] starting...
+[info] loading channels...
+[info] found 1 channel(s)
+[info] loading api data...
+[info] creating queue...
+[info] run:
+[info]   [1/5] artonline.tv (ar) - art.#Cinema - Nov 14, 2026 (0 programs)
+[info]   [2/5] artonline.tv (ar) - art.#Cinema - Nov 15, 2026 (0 programs)
+[info]   [3/5] artonline.tv (ar) - art.#Cinema - Nov 16, 2026 (0 programs)
+[info]   [4/5] artonline.tv (ar) - art.#Cinema - Nov 17, 2026 (0 programs)
+[info]   [5/5] artonline.tv (ar) - art.#Cinema - Nov 18, 2026 (0 programs)
+[info]   saving to "/home/runner/work/SaadEPG-data/SaadEPG-data/work/out_artonline.tv.1.retry.xml"...
+[success]   done in 00h 00m 10s
+total 152
+drwxr-xr-x 2 runner runner   4096 Nov 14 18:46 .
+drwxr-xr-x 9 runner runner   4096 Nov 14 18:45 ..
+-rw-r--r-- 1 runner runner    143 Nov 14 18:46 out_artonline.tv.1.retry.xml
+-rw-r--r-- 1 runner runner 135913 Nov 14 18:46 out_artonline.tv.1.xml
+-rw-r--r-- 1 runner runner   2924 Nov 14 18:46 out_grablog_artonline.tv.1.xml

@@ -1,0 +1,130 @@
+name: Build EPG
+# the code lives in a private repository (read with a read-only deploy key); this public repository only
+# publishes the guide files (branch epg) for the receivers
+
+on:
+  schedule:
+    - cron: '17 1 * * *'
+    - cron: '17 13 * * *'
+  workflow_dispatch:
+    inputs:
+      probe_only:
+        description: 'only save the raw pages of probe.json to branch probe (no build)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: build-epg
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    if: ${{ inputs.probe_only }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Saadmelshepiny/ArabEPG
+          ssh-key: ${{ secrets.CODE_DEPLOY_KEY }}
+      - name: Probe official pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 cloud/probe.py --out out || true
+          cd out && git init -q && git checkout -q -b probe
+          git config user.name "SaadEPG bot" && git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -q -m "probe $(date -u '+%Y-%m-%d %H:%M')"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" probe
+
+  setup:
+    if: ${{ !inputs.probe_only }}
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Saadmelshepiny/ArabEPG
+          ssh-key: ${{ secrets.CODE_DEPLOY_KEY }}
+      - id: m
+        run: echo "matrix=$(python3 cloud/chan_tools.py matrix)" >> "$GITHUB_OUTPUT"
+
+  grab:
+    needs: setup
+    name: grab ${{ matrix.site }} ${{ matrix.part }}/${{ matrix.parts }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.setup.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Saadmelshepiny/ArabEPG
+          ssh-key: ${{ secrets.CODE_DEPLOY_KEY }}
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: iptv-epg
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: iptv-epg/package-lock.json
+      - name: Install grabber
+        working-directory: iptv-epg
+        run: npm ci --no-audit --no-fund
+      - name: Grab
+        continue-on-error: true
+        run: bash cloud/grab.sh "${{ matrix.site }}" "${{ matrix.part }}" "${{ matrix.parts }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: grab-${{ matrix.site }}-${{ matrix.part }}
+          path: work/out_*.xml
+          if-no-files-found: ignore
+          retention-days: 2
+
+  publish:
+    needs: grab
+    if: ${{ always() && !inputs.probe_only }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Saadmelshepiny/ArabEPG
+          ssh-key: ${{ secrets.CODE_DEPLOY_KEY }}
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: iptv-epg
+          sparse-checkout: sites
+      - uses: actions/checkout@v4
+        with:
+          repository: ziko-ZR1/Epg-plugin
+          path: ziko
+          sparse-checkout: configs
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/share/argos-translate
+            ~/.cache/pip
+          key: argos-en-ar-v1
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: grab-*
+          path: work
+          merge-multiple: true
+      - name: Build, translate and publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+        run: bash cloud/publish.sh

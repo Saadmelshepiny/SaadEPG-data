@@ -1,0 +1,234 @@
+English dictionaries: bg 37519, cs 101384, da 44946, de 176346, el 55821, es 56231, fi 28432, fr 134955, he 28243, hu 49809, it 81311, lt 12003, lv 34205, nb 20191, nl 53776, pl 231341, pt 40238, ro 32684, ru 125537, sk 44534, sl 122204, sq 25759, sv 19196, tr 29248, uk 66
+   real Arabic titles/descriptions from the English copy: 3262
+ar_shahid      OK     71 channels    8876 programmes    224 KB
+   real Arabic titles/descriptions from the English copy: 5137
+ar_osn         OK     76 channels    7850 programmes    394 KB
+ar_elcinema    OK    101 channels    4269 programmes    166 KB
+   real Arabic titles/descriptions from the English copy: 583
+ar_bein        OK     60 channels    2548 programmes     30 KB
+   real Arabic titles/descriptions from the English copy: 280
+ar_rotana      OK      7 channels     417 programmes     22 KB
+ar_aljazeera   OK      2 channels     110 programmes      3 KB
+ar_beinsports  OK     31 channels    2514 programmes     44 KB
+ar_roya        OK      7 channels     824 programmes     20 KB
+ar_art         OK      4 channels     290 programmes     12 KB
+ar_ayn         OK      4 channels     569 programmes      7 KB
+ar_snrt        FAIL empty guide
+ar_lbci        OK      1 channels     100 programmes      4 KB
+ar_tunisia     OK      2 channels     142 programmes      5 KB
+ar_trt         FAIL no grab output
+eg             FAIL empty guide
+ae             OK    823 channels   80762 programmes   1475 KB
+sa             OK     31 channels    3879 programmes     68 KB
+bein           OK     78 channels    2854 programmes     30 KB
+   English titles: 13512/13546 (99%)
+it             OK    155 channels   13546 programmes   1193 KB
+   English titles: 101159/101178 (99%)
+pl             OK    589 channels  101178 programmes   8391 KB
+   English titles: 18600/18712 (99%)
+gr             OK    302 channels   18712 programmes   1547 KB
+   English titles: 45966/46014 (99%)
+fr             OK    530 channels   46014 programmes   4003 KB
+uk             OK    384 channels   26459 programmes   1127 KB
+   English titles: 29594/29602 (99%)
+ro             OK    356 channels   29602 programmes   1288 KB
+   English titles: 54381/54411 (99%)
+ua             OK   1117 channels   54411 programmes   1294 KB
+   English titles: 72305/72334 (99%)
+rs             OK    699 channels   72334 programmes   5625 KB
+   English titles: 13560/13564 (99%)
+hr             OK    177 channels   13564 programmes    939 KB
+   English titles: 24227/24233 (99%)
+ba             OK    229 channels   24233 programmes   2285 KB
+   English titles: 9659/9663 (99%)
+al             OK    174 channels    9663 programmes    567 KB
+   English titles: 6083/6095 (99%)
+bg             OK     70 channels    6095 programmes    341 KB
+   English titles: 20399/20406 (99%)
+hu             OK    169 channels   20406 programmes   1797 KB
+   English titles: 9234/9246 (99%)
+il             OK    109 channels    9246 programmes    890 KB
+oe_egypt1      OK    103 channels    3419 programmes    155 KB
+oe_egypt2      OK    103 channels    3625 programmes    121 KB
+oe_uae1        OK    823 channels   40239 programmes   1221 KB
+oe_uae2        FAIL no element found: line 1, column 0
+oe_uae3        OK     69 channels    4342 programmes    109 KB
+oe_uae4        OK     69 channels    4426 programmes    101 KB
+oe_uae5        FAIL no element found: line 1, column 0
+oe_uae6        OK     24 channels    2496 programmes     62 KB
+oe_uaepremium2 FAIL no element found: line 1, column 0
+oe_uaepremium3 FAIL no element found: line 1, column 0
+oe_qatar1      OK     31 channels     894 programmes     16 KB
+oe_qatar2      OK     35 channels    1017 programmes     10 KB
+oe_qatar3      OK     39 channels    1127 programmes     11 KB
+oe_qatar4      OK     33 channels    2288 programmes     24 KB
+oe_qatar5      OK     31 channels    2687 programmes     35 KB
+oe_qatar6      OK      8 channels     163 programmes      1 KB
+oe_qatarpremium FAIL no element found: line 1, column 0
+oe_saudiarabia1 OK    132 channels    6964 programmes    228 KB
+oe_saudiarabia2 OK    132 channels    8653 programmes    225 KB
+oe_saudiarabia3 OK      5 channels     335 programmes     13 KB
+oe_saudiarabia4 OK      5 channels     424 programmes     18 KB
+oe_arabiapremiumar FAIL no element found: line 1, column 0
+   English titles: 40940/41045 (99%)
+oe_poland      OK    490 channels   41045 programmes   4005 KB
+   English titles: 26091/26093 (99%)
+oe_poland1     OK    565 channels   26093 programmes   1307 KB
+   English titles: 34012/34018 (99%)
+oe_poland2     OK    601 channels   34018 programmes    547 KB
+oe_polandpremium FAIL no element found: line 1, column 0
+sa1            FAIL empty guide
+aljazeera      OK      1 channels     129 programmes      3 KB
+   English titles: 23522/23676 (99%)
+de             OK    249 channels   23676 programmes   3220 KB
+   English titles: 11875/11879 (99%)
+at             OK    136 channels   11879 programmes   2267 KB
+   English titles: 49922/55778 (89%)
+ch             OK    730 channels   55778 programmes   4664 KB
+   English titles: 20224/20225 (99%)
+nl             OK    156 channels   20225 programmes   1644 KB
+   English titles: 32141/49732 (64%)
+be             OK    581 channels   49732 programmes   4989 KB
+   English titles: 15871/15878 (99%)
+es             OK    240 channels   15878 programmes   1645 KB
+   English titles: 13686/13755 (99%)
+pt             OK    174 channels   13755 programmes   1234 KB
+   English titles: 35671/35679 (99%)
+cz             OK    535 channels   35679 programmes   3883 KB
+   English titles: 16023/16041 (99%)
+sk             OK    160 channels   16041 programmes   1609 KB
+   English titles: 10458/10470 (99%)
+tr             OK    135 channels   10470 programmes    743 KB
+   English titles: 11886/11897 (99%)
+tr2            OK    140 channels   11897 programmes    155 KB
+   English titles: 12169/12171 (99%)
+dk             OK    151 channels   12171 programmes   1525 KB
+   English titles: 11765/11765 (100%)
+no             OK    123 channels   11765 programmes    972 KB
+   English titles: 7743/12414 (62%)
+se             OK    123 channels   12414 programmes   1187 KB
+   English titles: 8947/8947 (100%)
+fi             OK     99 channels    8947 programmes    962 KB
+   English titles: 7249/7260 (99%)
+lt             OK     75 channels    7260 programmes    768 KB
+   English titles: 12915/12921 (99%)
+lv             OK     99 channels   12921 programmes    842 KB
+   English titles: 12101/12105 (99%)
+cy             OK     81 channels   12105 programmes    496 KB
+ie             OK    160 channels   15692 programmes   1101 KB
+   English titles: 875/875 (100%)
+sportklub      OK     16 channels     875 programmes     38 KB
+crowd_ar       FAIL not made in this run
+   English titles: 0/66 (0%)
+alkass         OK      8 channels      66 programmes      0 KB
+   English titles: 19939/20798 (95%)
+rytec_it       OK    130 channels   20798 programmes   1197 KB
+   English titles: 3061/3076 (99%)
+rytec_it_sm    OK     37 channels    3076 programmes    153 KB
+   English titles: 5197/8172 (63%)
+rytec_gr       OK     77 channels    8172 programmes    671 KB
+   English titles: 13431/14414 (93%)
+rytec_ro       OK     80 channels   14414 programmes    668 KB
+   English titles: 7335/8194 (89%)
+rytec_bg       OK    120 channels    8194 programmes    597 KB
+   English titles: 8479/8482 (99%)
+rytec_hr       OK     68 channels    8482 programmes    764 KB
+   English titles: 8036/8420 (95%)
+rytec_hr_x     OK     53 channels    8420 programmes    587 KB
+   English titles: 6006/6166 (97%)
+rytec_hr_sm    OK    123 channels    6166 programmes    697 KB
+   English titles: 7006/7017 (99%)
+rytec_rs       OK     64 channels    7017 programmes    538 KB
+   English titles: 10072/10346 (97%)
+rytec_rs_x     OK     83 channels   10346 programmes    768 KB
+   English titles: 4452/4457 (99%)
+rytec_si       OK     38 channels    4457 programmes    361 KB
+   English titles: 7675/7681 (99%)
+rytec_fr       OK     63 channels    7681 programmes    891 KB
+   English titles: 5714/12151 (47%)
+rytec_news     OK     55 channels   12151 programmes    322 KB
+ar_from_eu     OK     91 channels    5433 programmes (extracted)
+time anchor oe_saudiarabia2 not used today: no clear agreement with the official sites
+time anchor oe_saudiarabia4 not used today: no clear agreement with the official sites
+time anchor oe_uae1 not used today: no clear agreement with the official sites
+time anchor oe_egypt1 not used today: off by -2.0 h (13/13 channels)
+time anchor oe_egypt2 not used today: no clear agreement with the official sites
+time fixed: ar_elcinema      +5.0 h for the file
+time fixed: ar_rotana        +3.0 h for the file, own shift for 1 channels: rotana.434 +4.0h
+time fixed: ae               +0.0 h for the file, own shift for 2 channels: ar:.أل.بي.سي.سات.ae +1.0h, beIN.Sports.HD.ae +3.0h
+time fixed: bein             -2.0 h for the file
+time fixed: oe_egypt1        +2.0 h for the file, own shift for 1 channels: إل بي سي.eg +3.0h
+time fixed: oe_egypt2        +2.0 h for the file
+time fixed: oe_uae1          +0.0 h for the file, own shift for 2 channels: ar:.أل.بي.سي.سات.ae +1.0h, beIN.Sports.HD.ae +3.0h
+time fixed: oe_qatar2        -3.0 h for the file
+time fixed: oe_qatar3        -3.0 h for the file
+time fixed: oe_qatar4        -3.0 h for the file
+eu time fixed: it           1 channels: NHK.World.TV.HD.it -2h
+eu time fixed: pl           1 channels: Fashion.TV.pl +1h
+eu time fixed: fr           6 channels: Arte...fr +1h, France.2..fr +1h, France.3..fr +1h, France.4..fr +1h, France.5..fr +1h, France.info.fr +2h
+eu time fixed: ro           13 channels: CGTN.ro -1h, Extreme.Sports.ro +1h, Mezzo.Live.HD.ro +1h, Mezzo.ro +1h, MyZen.HD.ro +2h, NHK.World.ro -1h
+eu time fixed: ua           3 channels: BBC.News.[EU].ua -1h, Fashion.TV.Europe.[EU].ua +1h, TLC.Pan.Regional.(-2).[EU].ua -2h
+eu time fixed: rs           172 channels: 24Kitchen.rs -1h, 360.Tune.box.rs +2h, ADRIA.TV.rs -1h, AMC.rs -1h, AXN.Spin.rs -1h, AXN.rs -1h
+eu time fixed: hr           1 channels: Adult.Channel.hr -1h
+eu time fixed: ba           2 channels: Al.Jazeera.Arabic.(BIH).ba +1h, Current.Time.(BIH).ba +1h
+eu time fixed: hu           1 channels: Docubox.hu -1h
+eu time fixed: oe_poland    1 channels: CURRENTTIMETV.pl +1h
+eu time fixed: oe_poland1   1 channels: Fashion TV.pl +1h
+eu time fixed: oe_poland2   1 channels: Fashion TV.pl +1h
+eu time fixed: de           2 channels: Adult.Channel.de -1h, Kanal.7.Int.de -1h
+eu time fixed: at           2 channels: CNBC.at +1h, CNN.at +1h
+eu time fixed: ch           4 channels: Espreso.TV.ch -2h, i24.News.Français.ch +1h, i24.News.ch -1h, teleSUR.ch +1h
+eu time fixed: nl           1 channels: Shorts.TV.nl +2h
+eu time fixed: es           1 channels: CGTN.Español.es -1h
+eu time fixed: pt           5 channels: Daystar.pt -1h, FTV.HD.pt -1h, Fuel.TV.HD.pt -1h, ID.Investigation.Discovery.pt -2h, Trace.Urban.HD.pt +2h
+eu time fixed: cz           2 channels: AnimalPlanet.UK.cz +1h, CCTV4.Europe.cz -1h
+eu time fixed: tr           1 channels: CNBC.tr +1h
+eu time fixed: tr2          2 channels: AL.JAZEERA.ARABIC.tr +1h, ENGLISH.CLUB.TV.HD.tr -1h
+eu time fixed: fi           2 channels: Discovery.Channel.fi +1h, Extreme.Sports.Channel.fi -1h
+eu time fixed: lt           19 channels: AMC.lt +2h, Animal.Planet.lt +2h, Blue.Hustler.lt +2h, CNN.lt +2h, Discovery.lt +2h, DocuBox.lt +1h
+eu time fixed: lv           4 channels: Al.Jazeera.International.HD.lv +1h, Bloomberg.lv +1h, Fashion.&amp;.Style.HD.lv -2h, Prime.Fight.HD.lv +1h
+eu time fixed: cy           1 channels: Disney.Junior.cy +1h
+eu time fixed: ie           1 channels: Discovery.Science.ie -1h
+eu time fixed: rytec_ro     1 channels: Mezzo.ro +1h
+eu time fixed: rytec_hr     1 channels: BN2.ba +1h
+eu time fixed: rytec_hr_x   3 channels: MTV.hr -1h, NickJR.hr +1h, Nickelodeon.hr +1h
+eu time fixed: rytec_rs     1 channels: TV2.rs +1h
+eu time fixed: rytec_rs_x   3 channels: AXNAdria.rs +1h, BN.rs +1h, SuperstarTV.rs +2h
+eu time fixed: ar_from_eu   2 channels: Al.Jazeera.Arabic.(BIH).ba +1h, Hayat.Folk.Box.rs -1h
+copied schedules removed: 307 channels
+gold confidence: 366 channels agree >= 80%, 25 between 50 and 80, 9 below 50
+gold: 400 channels from 861 members (33 sources), 38897 programmes, 0 English titles given their Arabic one
+   gold.mbc1                    ar_shahid/shahid.387238 + ar_osn/osn.9908 + ar_elcinema/elcinema.1127 + ae/MBC.1.ae + oe_uae1/MBC.1.ae
+   gold.mbcdrama                ar_shahid/shahid.387251 + ar_osn/osn.9976 + ar_elcinema/elcinema.1194 + ae/MBC.Drama.ae + oe_uae1/MBC.Drama.ae
+   gold.mbcmax                  ar_shahid/shahid.400924 + oe_uae6/MBC MAX.ae + oe_saudiarabia1/MBC Max HD.sa + ar_elcinema/elcinema.1132 + oe_saudiarabia2/MBC Max HD.sa
+   gold.mbc3usa                 ar_shahid/shahid.816771 + oe_saudiarabia1/MBC 3.sa + oe_saudiarabia3/MBC 3 HD.sa + oe_saudiarabia4/MBC 3 HD.sa + oe_saudiarabia2/MBC 3.sa
+   gold.rotanakhalijeahd        ar_rotana/rotana.435 + ar_elcinema/elcinema.1149 + ae/Rotana.Khalijia.ae + oe_egypt2/Rotana Khalejia.eg + oe_uae1/Rotana.Khalijia.ae
+   gold.mbcmasr2                ar_shahid/shahid.387293 + ar_osn/osn.9297 + ae/MBC.Masr.2.HD.ae + oe_uae1/MBC.Masr.2.HD.ae
+   gold.mbciraq                 ar_shahid/shahid.387294 + ar_osn/osn.9245 + ae/MBC.Iraq.HD.ae + oe_uae1/MBC.Iraq.HD.ae
+   gold.mbcaction               ar_shahid/shahid.400921 + oe_uae6/MBC Action.ae + ae/MBC.Action.ae + oe_uae1/MBC.Action.ae
+   gold.mbc3                    ar_shahid/shahid.409385 + ar_osn/osn.9971 + oe_uae6/MBC3.ae + ar_elcinema/elcinema.1241
+   gold.business                ar_shahid/shahid.1003218 + oe_uae6/العربية Business.ae + oe_saudiarabia2/Al Arabiya Business.sa + oe_uae4/Al Arabiya Business - Live.ae
+   gold.royatvhd                ar_osn/osn.9393 + ar_roya/roya.1 + ar_elcinema/elcinema.1299 + ae/Roya.TV.HD.ae
+   gold.omantv                  ar_ayn/ayn.158/قناة-عمان-العامة + ar_ayn/ayn.161/قناة-عمان-مباشر + ar_osn/osn.9983 + ar_elcinema/elcinema.1317
+tmdb: 662 of 1190 films known (year, original title, poster) - 191 titles asked this run
+sports centre: 189 matches (189 first airings, 102 with Arabic names) | cinema: 1190 films (0 with a poster)
+   14/11 16:00  شيماييف × وايدمان - المصارعة الحرة الأمريكية للمحترفين  [ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي, ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي.ae, أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي.ae]
+   14/11 16:35  Taylor Fritz (USA) vs Thiago Agustin Tirante (ARG) - Final - ATP 250 Bybit Stockholm Open 2026  [beIN Sports 7]
+   14/11 16:45  Norway vs Wales - UEFA Nations League 2026/2027 - MD5  [beIN Sports 1 English, beIN SPORTS EN 1, beIN_SPORTS1_ENGLISH_Digital_Mono_AR]
+   14/11 16:50  بيلاروس ضد ألبانيا  [beIN_SPORTS2_DIGITAL_Mono_AR]
+   14/11 16:50  جورجيا ضد هنغاريا - جامعة الأمم المتحدة 2026/2027 - MD5  [beIN Sports 4, beIN SPORTS 4, beIN_SPORTS4_DIGITAL_Mono_AR]
+   14/11 17:00  كأس العالم المنضب/إيران VS بولندا  [Alkass Four]
+   14/11 17:00  Handbull World Cup vs Iran VS Poland  [Alkass_5_AR]
+   14/11 17:00  الدوري الوطني لكرة القدم للسيدات:واشنطن سبيريت × يوتا رويالز  [Dubai Sports 2.sa]
+history: 1993 channels updated, 3639 kept
+history: 0 channels from the broadcast log of the receiver
+estimated guide: 1550 channels without (enough) real data got 123572 programmes from their repeating grid
+wanted: 0 channels without a guide on the receiver, 0 with a possible match
+schedule fingerprints: 13604 channels, 1965 KB
+per-channel files: 15502 channels from 86 guides, 82 MB, 126s
+real Arabic titles/descriptions (pairs_ar): 9061
+done: 85/97 guides
+real Arabic: 29926 (+9061 this run); titles of English guides that have one: 17%
+titles: 11027 unique English, 4070 new | descriptions (36h): 7463 unique, 1445 new
+[en] model ready (spm)
+machine: +396 titles (26425), +313 descriptions (27937, 91% of the next 36h) in 134s

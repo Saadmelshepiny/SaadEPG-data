@@ -1,0 +1,815 @@
+== translate cs+sk | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: cs+sk, budget 3000s, python 3.12.16
+it                0 titles for cs+sk
+pl                0 titles for cs+sk
+gr                0 titles for cs+sk
+fr                0 titles for cs+sk
+ro                0 titles for cs+sk
+ua                0 titles for cs+sk
+rs                0 titles for cs+sk
+hr                0 titles for cs+sk
+ba                0 titles for cs+sk
+al                0 titles for cs+sk
+bg                0 titles for cs+sk
+hu                0 titles for cs+sk
+il                0 titles for cs+sk
+oe_poland         0 titles for cs+sk
+oe_poland1        0 titles for cs+sk
+oe_poland2        0 titles for cs+sk
+oe_polandpremium empty file, skipped
+de                0 titles for cs+sk
+at                0 titles for cs+sk
+ch              141 titles for cs+sk
+nl                0 titles for cs+sk
+be              161 titles for cs+sk
+es                0 titles for cs+sk
+pt                0 titles for cs+sk
+cz            35279 titles for cs+sk
+sk            15894 titles for cs+sk
+tr                0 titles for cs+sk
+tr2               0 titles for cs+sk
+dk                0 titles for cs+sk
+no                0 titles for cs+sk
+se                0 titles for cs+sk
+fi                0 titles for cs+sk
+lt                0 titles for cs+sk
+lv                0 titles for cs+sk
+cy                0 titles for cs+sk
+sportklub         0 titles for cs+sk
+rytec_it          0 titles for cs+sk
+rytec_it_sm       0 titles for cs+sk
+rytec_gr          0 titles for cs+sk
+rytec_ro          0 titles for cs+sk
+rytec_bg          0 titles for cs+sk
+rytec_hr          0 titles for cs+sk
+rytec_hr_x        0 titles for cs+sk
+rytec_hr_sm      74 titles for cs+sk
+rytec_rs          0 titles for cs+sk
+rytec_rs_x        0 titles for cs+sk
+rytec_si          0 titles for cs+sk
+rytec_fr          0 titles for cs+sk
+[cs] titles/categories: 10507 known, 5 new | descriptions (36h): 668 new
+[cs] model ready (bpe)
+[cs] +669 translated, dictionary 101384, programmes covered 100%, 315s
+[sk] titles/categories: 5171 known, 1 new | descriptions (36h): 317 new
+[sk] model ready (spm)
+[sk] +315 translated, dictionary 44534, programmes covered 99%, 345s
+== translate de | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: de, budget 3000s, python 3.12.16
+it                0 titles for de
+pl                0 titles for de
+gr                0 titles for de
+fr                0 titles for de
+ro                0 titles for de
+ua                0 titles for de
+rs                0 titles for de
+hr                0 titles for de
+ba                0 titles for de
+al                0 titles for de
+bg                0 titles for de
+hu                0 titles for de
+il                0 titles for de
+oe_poland         0 titles for de
+oe_poland1        0 titles for de
+oe_poland2        0 titles for de
+oe_polandpremium empty file, skipped
+de            23290 titles for de
+at            11756 titles for de
+ch            20564 titles for de
+nl                0 titles for de
+be            10626 titles for de
+es                0 titles for de
+pt                0 titles for de
+cz                0 titles for de
+sk                0 titles for de
+tr                0 titles for de
+tr2               0 titles for de
+dk                0 titles for de
+no                0 titles for de
+se              289 titles for de
+fi                0 titles for de
+lt                0 titles for de
+lv                0 titles for de
+cy                0 titles for de
+sportklub         0 titles for de
+rytec_it       8122 titles for de
+rytec_it_sm     208 titles for de
+rytec_gr          0 titles for de
+rytec_ro        155 titles for de
+rytec_bg        339 titles for de
+rytec_hr          0 titles for de
+rytec_hr_x        0 titles for de
+rytec_hr_sm       0 titles for de
+rytec_rs        208 titles for de
+rytec_rs_x      214 titles for de
+rytec_si          0 titles for de
+rytec_fr       2038 titles for de
+[de] titles/categories: 12267 known, 185 new | descriptions (36h): 1935 new
+[de] model ready (spm)
+[de] +2112 translated, dictionary 176346, programmes covered 99%, 364s
+== translate el+bg | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: el+bg, budget 3000s, python 3.12.16
+it                0 titles for el+bg
+pl                0 titles for el+bg
+gr            18315 titles for el+bg
+fr                0 titles for el+bg
+ro                0 titles for el+bg
+ua                0 titles for el+bg
+rs                0 titles for el+bg
+hr                0 titles for el+bg
+ba                0 titles for el+bg
+al                0 titles for el+bg
+bg             6098 titles for el+bg
+hu                0 titles for el+bg
+il                0 titles for el+bg
+oe_poland         0 titles for el+bg
+oe_poland1        0 titles for el+bg
+oe_poland2        0 titles for el+bg
+oe_polandpremium empty file, skipped
+de                0 titles for el+bg
+at                0 titles for el+bg
+ch              105 titles for el+bg
+nl                0 titles for el+bg
+be               90 titles for el+bg
+es                0 titles for el+bg
+pt                0 titles for el+bg
+cz                0 titles for el+bg
+sk                0 titles for el+bg
+tr                0 titles for el+bg
+tr2               0 titles for el+bg
+dk                0 titles for el+bg
+no                0 titles for el+bg
+se                0 titles for el+bg
+fi                0 titles for el+bg
+lt                0 titles for el+bg
+lv                0 titles for el+bg
+cy            12032 titles for el+bg
+sportklub         0 titles for el+bg
+rytec_it          0 titles for el+bg
+rytec_it_sm       0 titles for el+bg
+rytec_gr       5142 titles for el+bg
+rytec_ro          0 titles for el+bg
+rytec_bg       6817 titles for el+bg
+rytec_hr        520 titles for el+bg
+rytec_hr_x        0 titles for el+bg
+rytec_hr_sm       0 titles for el+bg
+rytec_rs          0 titles for el+bg
+rytec_rs_x        0 titles for el+bg
+rytec_si          0 titles for el+bg
+rytec_fr          0 titles for el+bg
+[el] titles/categories: 6428 known, 190 new | descriptions (36h): 636 new
+[el] model ready (spm)
+[el] +824 translated, dictionary 55821, programmes covered 100%, 269s
+[bg] titles/categories: 4058 known, 852 new | descriptions (36h): 411 new
+[bg] model ready (spm)
+[bg] +1230 translated, dictionary 37519, programmes covered 99%, 290s
+== translate es+pt | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: es+pt, budget 3000s, python 3.12.16
+it                0 titles for es+pt
+pl                0 titles for es+pt
+gr                0 titles for es+pt
+fr                0 titles for es+pt
+ro                0 titles for es+pt
+ua                0 titles for es+pt
+rs                0 titles for es+pt
+hr                0 titles for es+pt
+ba                0 titles for es+pt
+al                0 titles for es+pt
+bg                0 titles for es+pt
+hu                0 titles for es+pt
+il                0 titles for es+pt
+oe_poland         0 titles for es+pt
+oe_poland1        0 titles for es+pt
+oe_poland2        0 titles for es+pt
+oe_polandpremium empty file, skipped
+de                9 titles for es+pt
+at                0 titles for es+pt
+ch             1252 titles for es+pt
+nl                0 titles for es+pt
+be              592 titles for es+pt
+es            16030 titles for es+pt
+pt            13532 titles for es+pt
+cz                0 titles for es+pt
+sk                0 titles for es+pt
+tr                0 titles for es+pt
+tr2               0 titles for es+pt
+dk                0 titles for es+pt
+no                0 titles for es+pt
+se              353 titles for es+pt
+fi                0 titles for es+pt
+lt                0 titles for es+pt
+lv                0 titles for es+pt
+cy                0 titles for es+pt
+sportklub         0 titles for es+pt
+rytec_it          0 titles for es+pt
+rytec_it_sm       0 titles for es+pt
+rytec_gr          0 titles for es+pt
+rytec_ro          0 titles for es+pt
+rytec_bg          0 titles for es+pt
+rytec_hr          0 titles for es+pt
+rytec_hr_x        0 titles for es+pt
+rytec_hr_sm       0 titles for es+pt
+rytec_rs          0 titles for es+pt
+rytec_rs_x        0 titles for es+pt
+rytec_si          0 titles for es+pt
+rytec_fr        313 titles for es+pt
+[es] titles/categories: 5258 known, 1 new | descriptions (36h): 330 new
+[es] model ready (bpe)
+[es] +328 translated, dictionary 56231, programmes covered 99%, 288s
+[pt] titles/categories: 4219 known, 0 new | descriptions (36h): 249 new
+[pt] model ready (spm)
+[pt] +247 translated, dictionary 40238, programmes covered 100%, 299s
+== translate he+tr | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: he+tr, budget 3000s, python 3.12.16
+it                0 titles for he+tr
+pl                0 titles for he+tr
+gr                0 titles for he+tr
+fr                0 titles for he+tr
+ro                0 titles for he+tr
+ua                0 titles for he+tr
+rs                0 titles for he+tr
+hr                0 titles for he+tr
+ba                0 titles for he+tr
+al                0 titles for he+tr
+bg                0 titles for he+tr
+hu                0 titles for he+tr
+il             9161 titles for he+tr
+oe_poland         0 titles for he+tr
+oe_poland1        0 titles for he+tr
+oe_poland2        0 titles for he+tr
+oe_polandpremium empty file, skipped
+de                0 titles for he+tr
+at                0 titles for he+tr
+ch              854 titles for he+tr
+nl                0 titles for he+tr
+be               95 titles for he+tr
+es                0 titles for he+tr
+pt                0 titles for he+tr
+cz                0 titles for he+tr
+sk                0 titles for he+tr
+tr            10338 titles for he+tr
+tr2           11826 titles for he+tr
+dk                0 titles for he+tr
+no                0 titles for he+tr
+se               49 titles for he+tr
+fi                0 titles for he+tr
+lt                0 titles for he+tr
+lv                0 titles for he+tr
+cy                0 titles for he+tr
+sportklub         0 titles for he+tr
+rytec_it          0 titles for he+tr
+rytec_it_sm       0 titles for he+tr
+rytec_gr          0 titles for he+tr
+rytec_ro          0 titles for he+tr
+rytec_bg          0 titles for he+tr
+rytec_hr          0 titles for he+tr
+rytec_hr_x        0 titles for he+tr
+rytec_hr_sm       0 titles for he+tr
+rytec_rs          0 titles for he+tr
+rytec_rs_x        0 titles for he+tr
+rytec_si          0 titles for he+tr
+rytec_fr          0 titles for he+tr
+[he] titles/categories: 2413 known, 78 new | descriptions (36h): 295 new
+[he] model ready (spm)
+[he] +295 translated, dictionary 28243, programmes covered 99%, 259s
+[tr] titles/categories: 4401 known, 180 new | descriptions (36h): 164 new
+[tr] model ready (spm)
+[tr] +341 translated, dictionary 29248, programmes covered 99%, 269s
+== translate it+fr | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: it+fr, budget 3000s, python 3.12.16
+it            13285 titles for it+fr
+pl                0 titles for it+fr
+gr                0 titles for it+fr
+fr            47818 titles for it+fr
+ro                0 titles for it+fr
+ua                0 titles for it+fr
+rs                0 titles for it+fr
+hr                0 titles for it+fr
+ba                0 titles for it+fr
+al                0 titles for it+fr
+bg                0 titles for it+fr
+hu                0 titles for it+fr
+il                0 titles for it+fr
+oe_poland         0 titles for it+fr
+oe_poland1        0 titles for it+fr
+oe_poland2        0 titles for it+fr
+oe_polandpremium empty file, skipped
+de                3 titles for it+fr
+at                0 titles for it+fr
+ch            19866 titles for it+fr
+nl                0 titles for it+fr
+be            14730 titles for it+fr
+es                0 titles for it+fr
+pt                0 titles for it+fr
+cz                0 titles for it+fr
+sk                0 titles for it+fr
+tr                0 titles for it+fr
+tr2               0 titles for it+fr
+dk                0 titles for it+fr
+no                0 titles for it+fr
+se              572 titles for it+fr
+fi                0 titles for it+fr
+lt                0 titles for it+fr
+lv                0 titles for it+fr
+cy                0 titles for it+fr
+sportklub         0 titles for it+fr
+rytec_it      11630 titles for it+fr
+rytec_it_sm    2820 titles for it+fr
+rytec_gr          0 titles for it+fr
+rytec_ro          0 titles for it+fr
+rytec_bg          0 titles for it+fr
+rytec_hr          0 titles for it+fr
+rytec_hr_x        0 titles for it+fr
+rytec_hr_sm       0 titles for it+fr
+rytec_rs          0 titles for it+fr
+rytec_rs_x        0 titles for it+fr
+rytec_si          0 titles for it+fr
+rytec_fr       5275 titles for it+fr
+[it] titles/categories: 7154 known, 21 new | descriptions (36h): 769 new
+[it] model ready (spm)
+[it] +785 translated, dictionary 81311, programmes covered 99%, 283s
+[fr] titles/categories: 10838 known, 3 new | descriptions (36h): 1029 new
+[fr] model ready (spm)
+[fr] +1028 translated, dictionary 134955, programmes covered 99%, 350s
+== translate lt+lv | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: lt+lv, budget 3000s, python 3.12.16
+it                0 titles for lt+lv
+pl                0 titles for lt+lv
+gr                0 titles for lt+lv
+fr                0 titles for lt+lv
+ro                0 titles for lt+lv
+ua                0 titles for lt+lv
+rs                0 titles for lt+lv
+hr                0 titles for lt+lv
+ba                0 titles for lt+lv
+al                0 titles for lt+lv
+bg                0 titles for lt+lv
+hu                0 titles for lt+lv
+il                0 titles for lt+lv
+oe_poland         0 titles for lt+lv
+oe_poland1        0 titles for lt+lv
+oe_poland2        0 titles for lt+lv
+oe_polandpremium empty file, skipped
+de                0 titles for lt+lv
+at                0 titles for lt+lv
+ch                0 titles for lt+lv
+nl                0 titles for lt+lv
+be                0 titles for lt+lv
+es                0 titles for lt+lv
+pt                0 titles for lt+lv
+cz                0 titles for lt+lv
+sk                0 titles for lt+lv
+tr                0 titles for lt+lv
+tr2               0 titles for lt+lv
+dk                0 titles for lt+lv
+no                0 titles for lt+lv
+se                0 titles for lt+lv
+fi                0 titles for lt+lv
+lt             7184 titles for lt+lv
+lv            12834 titles for lt+lv
+cy                0 titles for lt+lv
+sportklub         0 titles for lt+lv
+rytec_it          0 titles for lt+lv
+rytec_it_sm       0 titles for lt+lv
+rytec_gr          0 titles for lt+lv
+rytec_ro          0 titles for lt+lv
+rytec_bg          0 titles for lt+lv
+rytec_hr          0 titles for lt+lv
+rytec_hr_x        0 titles for lt+lv
+rytec_hr_sm       0 titles for lt+lv
+rytec_rs          0 titles for lt+lv
+rytec_rs_x        0 titles for lt+lv
+rytec_si          0 titles for lt+lv
+rytec_fr          0 titles for lt+lv
+[lt] titles/categories: 1743 known, 1 new | descriptions (36h): 58 new
+[lt] model ready (bpe)
+[lt] +56 translated, dictionary 12003, programmes covered 99%, 262s
+[lv] titles/categories: 4296 known, 897 new | descriptions (36h): 144 new
+[lv] model ready (spm)
+[lv] +1040 translated, dictionary 34205, programmes covered 99%, 292s
+== translate nb+sv+fi | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: nb+sv+fi, budget 3000s, python 3.12.16
+it                0 titles for nb+sv+fi
+pl                0 titles for nb+sv+fi
+gr                0 titles for nb+sv+fi
+fr                0 titles for nb+sv+fi
+ro                0 titles for nb+sv+fi
+ua                0 titles for nb+sv+fi
+rs                0 titles for nb+sv+fi
+hr                0 titles for nb+sv+fi
+ba                0 titles for nb+sv+fi
+al                0 titles for nb+sv+fi
+bg                0 titles for nb+sv+fi
+hu                0 titles for nb+sv+fi
+il                0 titles for nb+sv+fi
+oe_poland         0 titles for nb+sv+fi
+oe_poland1        0 titles for nb+sv+fi
+oe_poland2        0 titles for nb+sv+fi
+oe_polandpremium empty file, skipped
+de                0 titles for nb+sv+fi
+at                0 titles for nb+sv+fi
+ch                0 titles for nb+sv+fi
+nl                0 titles for nb+sv+fi
+be               35 titles for nb+sv+fi
+es                0 titles for nb+sv+fi
+pt                0 titles for nb+sv+fi
+cz                0 titles for nb+sv+fi
+sk                0 titles for nb+sv+fi
+tr                0 titles for nb+sv+fi
+tr2               0 titles for nb+sv+fi
+dk                0 titles for nb+sv+fi
+no            11722 titles for nb+sv+fi
+se             5246 titles for nb+sv+fi
+fi             8913 titles for nb+sv+fi
+lt                0 titles for nb+sv+fi
+lv                0 titles for nb+sv+fi
+cy                0 titles for nb+sv+fi
+sportklub         0 titles for nb+sv+fi
+rytec_it          0 titles for nb+sv+fi
+rytec_it_sm       0 titles for nb+sv+fi
+rytec_gr          0 titles for nb+sv+fi
+rytec_ro          0 titles for nb+sv+fi
+rytec_bg          0 titles for nb+sv+fi
+rytec_hr          0 titles for nb+sv+fi
+rytec_hr_x        0 titles for nb+sv+fi
+rytec_hr_sm       0 titles for nb+sv+fi
+rytec_rs          0 titles for nb+sv+fi
+rytec_rs_x        0 titles for nb+sv+fi
+rytec_si          0 titles for nb+sv+fi
+rytec_fr          0 titles for nb+sv+fi
+[nb] titles/categories: 2680 known, 124 new | descriptions (36h): 168 new
+[nb] model ready (spm)
+[nb] +292 translated, dictionary 20191, programmes covered 100%, 252s
+[sv] titles/categories: 781 known, 1 new | descriptions (36h): 179 new
+[sv] model ready (spm)
+[sv] +178 translated, dictionary 19196, programmes covered 95%, 261s
+[fi] titles/categories: 2220 known, 0 new | descriptions (36h): 252 new
+[fi] model ready (bpe)
+[fi] +246 translated, dictionary 28432, programmes covered 100%, 284s
+== translate nl+da | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: nl+da, budget 3000s, python 3.12.16
+it                0 titles for nl+da
+pl                0 titles for nl+da
+gr                0 titles for nl+da
+fr                0 titles for nl+da
+ro                0 titles for nl+da
+ua                0 titles for nl+da
+rs                0 titles for nl+da
+hr                0 titles for nl+da
+ba                0 titles for nl+da
+al                0 titles for nl+da
+bg                0 titles for nl+da
+hu                0 titles for nl+da
+il                0 titles for nl+da
+oe_poland         0 titles for nl+da
+oe_poland1        0 titles for nl+da
+oe_poland2        0 titles for nl+da
+oe_polandpremium empty file, skipped
+de                0 titles for nl+da
+at                0 titles for nl+da
+ch              135 titles for nl+da
+nl            20091 titles for nl+da
+be             4453 titles for nl+da
+es                0 titles for nl+da
+pt                0 titles for nl+da
+cz                0 titles for nl+da
+sk                0 titles for nl+da
+tr                0 titles for nl+da
+tr2               0 titles for nl+da
+dk            12033 titles for nl+da
+no                0 titles for nl+da
+se              358 titles for nl+da
+fi                0 titles for nl+da
+lt                0 titles for nl+da
+lv                0 titles for nl+da
+cy                0 titles for nl+da
+sportklub         0 titles for nl+da
+rytec_it          0 titles for nl+da
+rytec_it_sm       0 titles for nl+da
+rytec_gr          0 titles for nl+da
+rytec_ro          0 titles for nl+da
+rytec_bg          0 titles for nl+da
+rytec_hr          0 titles for nl+da
+rytec_hr_x        0 titles for nl+da
+rytec_hr_sm       0 titles for nl+da
+rytec_rs          0 titles for nl+da
+rytec_rs_x        0 titles for nl+da
+rytec_si          0 titles for nl+da
+rytec_fr          0 titles for nl+da
+[nl] titles/categories: 4898 known, 173 new | descriptions (36h): 407 new
+[nl] model ready (spm)
+[nl] +578 translated, dictionary 53776, programmes covered 100%, 282s
+[da] titles/categories: 2895 known, 18 new | descriptions (36h): 490 new
+[da] model ready (bpe)
+[da] +498 translated, dictionary 44946, programmes covered 100%, 327s
+== translate pl | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: pl, budget 3000s, python 3.12.16
+it                0 titles for pl
+pl           100676 titles for pl
+gr                0 titles for pl
+fr                0 titles for pl
+ro                0 titles for pl
+ua                0 titles for pl
+rs                0 titles for pl
+hr                0 titles for pl
+ba                0 titles for pl
+al                0 titles for pl
+bg                0 titles for pl
+hu                0 titles for pl
+il                0 titles for pl
+oe_poland     33051 titles for pl
+oe_poland1    25884 titles for pl
+oe_poland2    33522 titles for pl
+oe_polandpremium empty file, skipped
+de                0 titles for pl
+at                0 titles for pl
+ch              235 titles for pl
+nl                0 titles for pl
+be              833 titles for pl
+es                0 titles for pl
+pt                0 titles for pl
+cz                0 titles for pl
+sk                0 titles for pl
+tr                0 titles for pl
+tr2               0 titles for pl
+dk                0 titles for pl
+no                0 titles for pl
+se               53 titles for pl
+fi                0 titles for pl
+lt                0 titles for pl
+lv                0 titles for pl
+cy                0 titles for pl
+sportklub         0 titles for pl
+rytec_it          0 titles for pl
+rytec_it_sm       0 titles for pl
+rytec_gr          0 titles for pl
+rytec_ro          0 titles for pl
+rytec_bg         38 titles for pl
+rytec_hr          0 titles for pl
+rytec_hr_x        0 titles for pl
+rytec_hr_sm       0 titles for pl
+rytec_rs          0 titles for pl
+rytec_rs_x        0 titles for pl
+rytec_si          0 titles for pl
+rytec_fr          0 titles for pl
+[pl] titles/categories: 17695 known, 581 new | descriptions (36h): 3875 new
+[pl] model ready (spm)
+[pl] +4447 translated, dictionary 231341, programmes covered 100%, 452s
+== translate ro+hu | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: ro+hu, budget 3000s, python 3.12.16
+it                0 titles for ro+hu
+pl                0 titles for ro+hu
+gr                0 titles for ro+hu
+fr                0 titles for ro+hu
+ro            29399 titles for ro+hu
+ua                0 titles for ro+hu
+rs                0 titles for ro+hu
+hr                0 titles for ro+hu
+ba                0 titles for ro+hu
+al                0 titles for ro+hu
+bg                0 titles for ro+hu
+hu            20342 titles for ro+hu
+il                0 titles for ro+hu
+oe_poland         0 titles for ro+hu
+oe_poland1        0 titles for ro+hu
+oe_poland2        0 titles for ro+hu
+oe_polandpremium empty file, skipped
+de                0 titles for ro+hu
+at                0 titles for ro+hu
+ch              832 titles for ro+hu
+nl                0 titles for ro+hu
+be               85 titles for ro+hu
+es                0 titles for ro+hu
+pt                0 titles for ro+hu
+cz                0 titles for ro+hu
+sk                0 titles for ro+hu
+tr                0 titles for ro+hu
+tr2               0 titles for ro+hu
+dk                0 titles for ro+hu
+no                0 titles for ro+hu
+se              215 titles for ro+hu
+fi                0 titles for ro+hu
+lt                0 titles for ro+hu
+lv                0 titles for ro+hu
+cy                0 titles for ro+hu
+sportklub         0 titles for ro+hu
+rytec_it          0 titles for ro+hu
+rytec_it_sm       0 titles for ro+hu
+rytec_gr          0 titles for ro+hu
+rytec_ro      13603 titles for ro+hu
+rytec_bg        101 titles for ro+hu
+rytec_hr          0 titles for ro+hu
+rytec_hr_x        0 titles for ro+hu
+rytec_hr_sm       0 titles for ro+hu
+rytec_rs          0 titles for ro+hu
+rytec_rs_x        0 titles for ro+hu
+rytec_si          0 titles for ro+hu
+rytec_fr          0 titles for ro+hu
+[ro] titles/categories: 7100 known, 2 new | descriptions (36h): 142 new
+[ro] model ready (bpe)
+[ro] +142 translated, dictionary 32684, programmes covered 100%, 252s
+[hu] titles/categories: 5341 known, 286 new | descriptions (36h): 442 new
+[hu] model ready (bpe)
+[hu] +673 translated, dictionary 49809, programmes covered 99%, 289s
+== translate sl+sq | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: sl+sq, budget 3000s, python 3.12.16
+it                0 titles for sl+sq
+pl                0 titles for sl+sq
+gr                0 titles for sl+sq
+fr                0 titles for sl+sq
+ro                0 titles for sl+sq
+ua                0 titles for sl+sq
+rs            70742 titles for sl+sq
+hr            13251 titles for sl+sq
+ba            24000 titles for sl+sq
+al             9503 titles for sl+sq
+bg                0 titles for sl+sq
+hu                0 titles for sl+sq
+il                0 titles for sl+sq
+oe_poland         0 titles for sl+sq
+oe_poland1        0 titles for sl+sq
+oe_poland2        0 titles for sl+sq
+oe_polandpremium empty file, skipped
+de                0 titles for sl+sq
+at                0 titles for sl+sq
+ch             5124 titles for sl+sq
+nl                0 titles for sl+sq
+be              101 titles for sl+sq
+es                0 titles for sl+sq
+pt                0 titles for sl+sq
+cz                0 titles for sl+sq
+sk                0 titles for sl+sq
+tr                0 titles for sl+sq
+tr2               0 titles for sl+sq
+dk                0 titles for sl+sq
+no                0 titles for sl+sq
+se              530 titles for sl+sq
+fi                0 titles for sl+sq
+lt                0 titles for sl+sq
+lv                0 titles for sl+sq
+cy                0 titles for sl+sq
+sportklub       859 titles for sl+sq
+rytec_it        103 titles for sl+sq
+rytec_it_sm       0 titles for sl+sq
+rytec_gr          0 titles for sl+sq
+rytec_ro          0 titles for sl+sq
+rytec_bg          0 titles for sl+sq
+rytec_hr       7765 titles for sl+sq
+rytec_hr_x     8145 titles for sl+sq
+rytec_hr_sm    5865 titles for sl+sq
+rytec_rs       6608 titles for sl+sq
+rytec_rs_x     9634 titles for sl+sq
+rytec_si       4417 titles for sl+sq
+rytec_fr          0 titles for sl+sq
+[sl] titles/categories: 19922 known, 119 new | descriptions (36h): 1919 new
+[sl] model ready (spm)
+[sl] +1982 translated, dictionary 122204, programmes covered 99%, 454s
+[sq] titles/categories: 3399 known, 0 new | descriptions (36h): 130 new
+[sq] model ready (spm)
+[sq] +129 translated, dictionary 25759, programmes covered 100%, 462s
+== translate uk+ru | "Ubuntu 26.04.1 LTS" | Python 3.14.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+
+[notice] A new release of pip is available: 25.0.1 -> 26.3
+[notice] To update, run: /tmp/trenv/bin/python3 -m pip install --upgrade pip
+== python: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python3 (Python 3.12.16)
+languages: uk+ru, budget 3000s, python 3.12.16
+it              114 titles for uk+ru
+pl                0 titles for uk+ru
+gr                0 titles for uk+ru
+fr                0 titles for uk+ru
+ro                0 titles for uk+ru
+ua            53449 titles for uk+ru
+rs              987 titles for uk+ru
+hr              152 titles for uk+ru
+ba               35 titles for uk+ru
+al                0 titles for uk+ru
+bg                0 titles for uk+ru
+hu                0 titles for uk+ru
+il                0 titles for uk+ru
+oe_poland         0 titles for uk+ru
+oe_poland1        0 titles for uk+ru
+oe_poland2        0 titles for uk+ru
+oe_polandpremium empty file, skipped
+de                0 titles for uk+ru
+at                0 titles for uk+ru
+ch              258 titles for uk+ru
+nl                0 titles for uk+ru
+be               51 titles for uk+ru
+es                0 titles for uk+ru
+pt                0 titles for uk+ru
+cz                0 titles for uk+ru
+sk                0 titles for uk+ru
+tr                0 titles for uk+ru
+tr2               0 titles for uk+ru
+dk                0 titles for uk+ru
+no                0 titles for uk+ru
+se                2 titles for uk+ru
+fi                0 titles for uk+ru
+lt                0 titles for uk+ru
+lv                0 titles for uk+ru
+cy                0 titles for uk+ru
+sportklub         0 titles for uk+ru
+rytec_it          0 titles for uk+ru
+rytec_it_sm       0 titles for uk+ru
+rytec_gr          0 titles for uk+ru
+rytec_ro          0 titles for uk+ru
+rytec_bg          0 titles for uk+ru
+rytec_hr        238 titles for uk+ru
+rytec_hr_x        0 titles for uk+ru
+rytec_hr_sm       0 titles for uk+ru
+rytec_rs        167 titles for uk+ru
+rytec_rs_x      229 titles for uk+ru
+rytec_si          0 titles for uk+ru
+rytec_fr          0 titles for uk+ru
+[uk] titles/categories: 32 known, 0 new | descriptions (36h): 0 new
+[uk] +0 translated, dictionary 66, programmes covered 100%, 237s
+[ru] titles/categories: 23152 known, 12 new | descriptions (36h): 5 new
+[ru] model ready (spm)
+[ru] +12 translated, dictionary 125537, programmes covered 99%, 246s
