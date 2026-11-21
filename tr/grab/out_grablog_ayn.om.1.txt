@@ -1,0 +1,35 @@
+== ayn.om part 1/1: days=5 delay=0 connections=5
+[info] starting...
+[info] loading channels...
+[info] found 4 channel(s)
+[info] loading api data...
+[info] creating queue...
+[info] run:
+[info]   [1/20] ayn.om (ar) - ayn.158/قناة-عمان-العامة - Nov 21, 2026 (49 programs)
+[info]   [2/20] ayn.om (ar) - ayn.158/قناة-عمان-العامة - Nov 22, 2026 (49 programs)
+[info]   [3/20] ayn.om (ar) - ayn.158/قناة-عمان-العامة - Nov 24, 2026 (49 programs)
+[info]   [4/20] ayn.om (ar) - ayn.158/قناة-عمان-العامة - Nov 23, 2026 (49 programs)
+[info]   [5/20] ayn.om (ar) - ayn.159/قناة-عمان-الرياضية - Nov 21, 2026 (21 programs)
+[info]   [6/20] ayn.om (ar) - ayn.159/قناة-عمان-الرياضية - Nov 22, 2026 (19 programs)
+[info]   [7/20] ayn.om (ar) - ayn.158/قناة-عمان-العامة - Nov 25, 2026 (3 programs)
+[info]   [8/20] ayn.om (ar) - ayn.159/قناة-عمان-الرياضية - Nov 23, 2026 (21 programs)
+[info]   [9/20] ayn.om (ar) - ayn.159/قناة-عمان-الرياضية - Nov 24, 2026 (24 programs)
+[info]   [10/20] ayn.om (ar) - ayn.159/قناة-عمان-الرياضية - Nov 25, 2026 (0 programs)
+[info]   [11/20] ayn.om (ar) - ayn.160/قناة-عمان-الثقافية - Nov 21, 2026 (58 programs)
+[info]   [12/20] ayn.om (ar) - ayn.160/قناة-عمان-الثقافية - Nov 22, 2026 (53 programs)
+[info]   [13/20] ayn.om (ar) - ayn.160/قناة-عمان-الثقافية - Nov 23, 2026 (53 programs)
+[info]   [14/20] ayn.om (ar) - ayn.160/قناة-عمان-الثقافية - Nov 24, 2026 (54 programs)
+[info]   [15/20] ayn.om (ar) - ayn.160/قناة-عمان-الثقافية - Nov 25, 2026 (5 programs)
+[info]   [16/20] ayn.om (ar) - ayn.161/قناة-عمان-مباشر - Nov 21, 2026 (49 programs)
+[info]   [17/20] ayn.om (ar) - ayn.161/قناة-عمان-مباشر - Nov 22, 2026 (49 programs)
+[info]   [18/20] ayn.om (ar) - ayn.161/قناة-عمان-مباشر - Nov 23, 2026 (49 programs)
+[info]   [19/20] ayn.om (ar) - ayn.161/قناة-عمان-مباشر - Nov 24, 2026 (49 programs)
+[info]   [20/20] ayn.om (ar) - ayn.161/قناة-عمان-مباشر - Nov 25, 2026 (3 programs)
+[info]   saving to "/home/runner/work/SaadEPG-data/SaadEPG-data/work/out_ayn.om.1.xml"...
+[success]   done in 00h 00m 10s
+0/4 channels without programmes
+total 156
+drwxr-xr-x 2 runner runner   4096 Nov 21 08:19 .
+drwxr-xr-x 9 runner runner   4096 Nov 21 08:19 ..
+-rw-r--r-- 1 runner runner 143602 Nov 21 08:19 out_ayn.om.1.xml
+-rw-r--r-- 1 runner runner   2336 Nov 21 08:19 out_grablog_ayn.om.1.xml
