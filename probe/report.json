@@ -1,0 +1,931 @@
+{
+ "generated_utc": "2026-11-22 07:34:06",
+ "pages": {
+  "lbci_today": {
+   "url": "https://www.lbcgroup.tv/schedule-channels-date/1/2026/11/22/ar",
+   "status": 200,
+   "final_url": "https://www.lbcgroup.tv/schedule-channels-date/1/2026/11/22/ar",
+   "bytes": 120895,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/lbci_today.html"
+  },
+  "lbci_tomorrow": {
+   "url": "https://www.lbcgroup.tv/schedule-channels-date/1/2026/11/23/ar",
+   "status": 200,
+   "final_url": "https://www.lbcgroup.tv/schedule-channels-date/1/2026/11/23/ar",
+   "bytes": 166083,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/lbci_tomorrow.html"
+  },
+  "lb2": {
+   "url": "https://www.lbcgroup.tv/schedule-channels/9/lb2-beirut-time/ar",
+   "status": 200,
+   "final_url": "https://www.lbcgroup.tv/",
+   "bytes": 699036,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/lb2.html"
+  },
+  "aljadeed_today": {
+   "url": "https://www.aljadeed.tv/schedule-channels-date/1/2026/11/22/ar",
+   "status": 200,
+   "final_url": "https://www.aljadeed.tv/schedule-channels-date/1/2026/11/22/ar",
+   "bytes": 159876,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/aljadeed_today.html"
+  },
+  "mtv_lebanon": {
+   "url": "https://www.mtv.com.lb/schedule",
+   "status": 200,
+   "final_url": "https://www.mtv.com.lb/schedule",
+   "bytes": 35118,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/mtv_lebanon.html"
+  },
+  "mtv_lebanon_link1": {
+   "url": "https://www.mtv.com.lb/en/schedule",
+   "status": 200,
+   "final_url": "https://www.mtv.com.lb/en/schedule",
+   "bytes": 30776,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/mtv_lebanon_link1.html"
+  },
+  "mtv_lebanon_link2": {
+   "url": "https://www.mtv.com.lb/dist/css/news-schedule.css?v=XkvXVNjD5U6iyhMEdPVGEnvCH4uY3uZzP_e4ZvpQ62U",
+   "status": 200,
+   "final_url": "https://www.mtv.com.lb/dist/css/news-schedule.css?v=XkvXVNjD5U6iyhMEdPVGEnvCH4uY3uZzP_e4ZvpQ62U",
+   "bytes": 8484,
+   "content_type": "text/css",
+   "file": "probe/mtv_lebanon_link2.html"
+  },
+  "tunisia_watania1": {
+   "url": "https://www.tunisiatv.tn/ar/programme",
+   "error": "HTTP Error 307: Temporary Redirect"
+  },
+  "saudi_sba": {
+   "url": "https://sba.sa/",
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
+  },
+  "saudi_tv": {
+   "url": "https://www.saudiatv.sa/",
+   "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  "alkass": {
+   "url": "https://www.alkass.net/tvguide",
+   "status": 200,
+   "final_url": "https://www.alkass.net/tvguide",
+   "bytes": 71476,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/alkass.html"
+  },
+  "qatar_tv": {
+   "url": "https://qtv.qa/TransmissionScheduled",
+   "status": 200,
+   "final_url": "https://qtv.qa/TransmissionScheduled",
+   "bytes": 52597,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/qatar_tv.html"
+  },
+  "dubai_tv": {
+   "url": "https://www.dubaitv.ae/content/dubaitv/ar-ae/program-schedule.html",
+   "status": 200,
+   "final_url": "https://www.dubaitv.ae/content/dubaitv/ar-ae/program-schedule.html",
+   "bytes": 22810,
+   "content_type": "text/html",
+   "file": "probe/dubai_tv.html"
+  },
+  "dubai_tv_link1": {
+   "url": "https://www.dubaitv.ae/content/dubaitv/ar-ae/programs/1.html",
+   "status": 200,
+   "final_url": "https://www.dubaitv.ae/content/dubaitv/ar-ae/programs/1.html",
+   "bytes": 141685,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/dubai_tv_link1.html"
+  },
+  "dubai_tv_link2": {
+   "url": "https://www.dubaitv.ae/content/dubaitv/ar-ae/programs/4.html",
+   "status": 200,
+   "final_url": "https://www.dubaitv.ae/content/dubaitv/ar-ae/programs/4.html",
+   "bytes": 140505,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/dubai_tv_link2.html"
+  },
+  "abudhabi": {
+   "url": "https://www.admn.ae/ar/",
+   "status": 200,
+   "final_url": "https://www.admn.ae/ar/",
+   "bytes": 92815,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/abudhabi.html"
+  },
+  "trt_arabi": {
+   "url": "https://www.trtarabi.com/tv-schedule",
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "jordan_tv": {
+   "url": "https://jrtv.gov.jo/",
+   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+  },
+  "almamlaka": {
+   "url": "https://www.almamlakatv.com/",
+   "status": 200,
+   "final_url": "https://almamlakatv.com/ar",
+   "bytes": 310159,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almamlaka.html"
+  },
+  "almamlaka_link1": {
+   "url": "https://almamlakatv.com/ar/البرامج",
+   "error": "'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)"
+  },
+  "almamlaka_link2": {
+   "url": "https://almamlakatv.com/css/front_component/design_templates/fixed_section/live_with_schedule.css?v=1795332636",
+   "status": 200,
+   "final_url": "https://almamlakatv.com/css/front_component/design_templates/fixed_section/live_with_schedule.css?v=1795332636",
+   "bytes": 1759,
+   "content_type": "text/css",
+   "file": "probe/almamlaka_link2.html"
+  },
+  "almamlaka_link3": {
+   "url": "https://almamlakatv.com/css/front_component/design_templates/fixed_section/live_with_schedule.css",
+   "status": 200,
+   "final_url": "https://almamlakatv.com/css/front_component/design_templates/fixed_section/live_with_schedule.css",
+   "bytes": 1759,
+   "content_type": "text/css",
+   "file": "probe/almamlaka_link3.html"
+  },
+  "alsumaria": {
+   "url": "https://www.alsumaria.tv/TV-grid",
+   "status": 200,
+   "final_url": "https://www.alsumaria.tv/TV-grid",
+   "bytes": 702287,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/alsumaria.html"
+  },
+  "iraqia": {
+   "url": "https://imn.iq/",
+   "status": 200,
+   "final_url": "https://imn.iq/ar",
+   "bytes": 154155,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/iraqia.html"
+  },
+  "yallakora": {
+   "url": "https://www.yallakora.com/match-center",
+   "status": 200,
+   "final_url": "https://www.yallakora.com/matches-center",
+   "bytes": 300985,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/yallakora.html"
+  },
+  "es_EG1": {
+   "url": "https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz",
+   "status": 200,
+   "final_url": "https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz",
+   "bytes": 200342,
+   "content_type": "application/octet-stream",
+   "file": "probe/es_EG1.html"
+  },
+  "es_SA1": {
+   "url": "https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz",
+   "status": 200,
+   "final_url": "https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz",
+   "bytes": 1443,
+   "content_type": "application/octet-stream",
+   "file": "probe/es_SA1.html"
+  },
+  "presstv": {
+   "url": "https://www.presstv.co.uk/default/schedule",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/default/schedule",
+   "bytes": 25424,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/presstv.html"
+  },
+  "presstv_link1": {
+   "url": "https://www.presstv.co.uk/new/styles/components/schedule.css?v=ZjLFkXEVZCbUxx3Sxjw8p5z0ibPZjCJmT9YBcjSUCxQ",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/new/styles/components/schedule.css?v=ZjLFkXEVZCbUxx3Sxjw8p5z0ibPZjCJmT9YBcjSUCxQ",
+   "bytes": 4240,
+   "content_type": "text/css",
+   "file": "probe/presstv_link1.html"
+  },
+  "presstv_link2": {
+   "url": "https://www.presstv.co.uk/Schedule?date=2026-11-21",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/Schedule?date=2026-11-21",
+   "bytes": 25432,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/presstv_link2.html"
+  },
+  "presstv_link3": {
+   "url": "https://www.presstv.co.uk/Schedule?date=2026-11-22",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/Schedule?date=2026-11-22",
+   "bytes": 25424,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/presstv_link3.html"
+  },
+  "presstv_link4": {
+   "url": "https://www.presstv.co.uk/Schedule?date=2026-11-23",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/Schedule?date=2026-11-23",
+   "bytes": 25424,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/presstv_link4.html"
+  },
+  "presstv_link5": {
+   "url": "https://www.presstv.co.uk/Schedule?date=2026-11-24",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/Schedule?date=2026-11-24",
+   "bytes": 25428,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/presstv_link5.html"
+  },
+  "almanar": {
+   "url": "https://www.almanar.com.lb/programs",
+   "status": 200,
+   "final_url": "https://www.almanar.com.lb/programs/",
+   "bytes": 193447,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almanar.html"
+  },
+  "almanar_link1": {
+   "url": "https://www.almanar.com.lb/program-category/658/",
+   "status": 200,
+   "final_url": "https://www.almanar.com.lb/program-category/658/",
+   "bytes": 30480,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almanar_link1.html"
+  },
+  "almanar_link2": {
+   "url": "https://www.almanar.com.lb/program/10716/",
+   "status": 200,
+   "final_url": "https://www.almanar.com.lb/program/10716/",
+   "bytes": 39843,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almanar_link2.html"
+  },
+  "almanar_link3": {
+   "url": "https://www.almanar.com.lb/program/691/",
+   "status": 200,
+   "final_url": "https://www.almanar.com.lb/program/691/",
+   "bytes": 38163,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almanar_link3.html"
+  },
+  "almanar_link4": {
+   "url": "https://www.almanar.com.lb/program/702/",
+   "status": 200,
+   "final_url": "https://www.almanar.com.lb/program/702/",
+   "bytes": 38220,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almanar_link4.html"
+  },
+  "almanar_link5": {
+   "url": "https://www.almanar.com.lb/program/735/",
+   "status": 200,
+   "final_url": "https://www.almanar.com.lb/program/735/",
+   "bytes": 38227,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/almanar_link5.html"
+  },
+  "alalam": {
+   "url": "https://www.alalam.ir/",
+   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+  },
+  "rtarabic": {
+   "url": "https://arabic.rt.com/",
+   "status": 200,
+   "final_url": "https://rtarabic.com/",
+   "bytes": 1279505,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rtarabic.html"
+  },
+  "rtarabic_link1": {
+   "url": "https://rtarabic.com/prg/program/1309249-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B5/",
+   "status": 200,
+   "final_url": "https://rtarabic.com/prg/program/1309249-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B5/",
+   "bytes": 85144,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rtarabic_link1.html"
+  },
+  "rtarabic_link2": {
+   "url": "https://rtarabic.com/prg/program/595360-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D9%82%D8%B5%D8%A7%D8%B1%D9%89_%D8%A7%D9%84%D9%82%D9%88%D9%84/",
+   "status": 200,
+   "final_url": "https://rtarabic.com/prg/program/595360-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D9%82%D8%B5%D8%A7%D8%B1%D9%89_%D8%A7%D9%84%D9%82%D9%88%D9%84/",
+   "bytes": 86455,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rtarabic_link2.html"
+  },
+  "rtarabic_link3": {
+   "url": "https://rtarabic.com/prg/program/987584-%D8%A8%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
+   "status": 200,
+   "final_url": "https://rtarabic.com/prg/program/987584-%D8%A8%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
+   "bytes": 85419,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rtarabic_link3.html"
+  },
+  "rtarabic_link4": {
+   "url": "https://rtarabic.com/prg/program/792326-%D8%A7%D8%B3%D8%A3%D9%84-%D8%A3%D9%83%D8%AB%D8%B1/",
+   "status": 200,
+   "final_url": "https://rtarabic.com/prg/program/792326-%D8%A7%D8%B3%D8%A3%D9%84-%D8%A3%D9%83%D8%AB%D8%B1/",
+   "bytes": 85382,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rtarabic_link4.html"
+  },
+  "rtarabic_link5": {
+   "url": "https://rtarabic.com/prg/program/1848393-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+   "status": 200,
+   "final_url": "https://rtarabic.com/prg/program/1848393-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+   "bytes": 73495,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rtarabic_link5.html"
+  },
+  "dw_ar": {
+   "url": "https://www.dw.com/ar/",
+   "status": 200,
+   "final_url": "https://www.dw.com/ar/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/s-9106",
+   "bytes": 340803,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/dw_ar.html"
+  },
+  "mubasher": {
+   "url": "https://mubasher.aljazeera.net/",
+   "status": 200,
+   "final_url": "https://www.aljazeera.net/video/live/%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+   "bytes": 568118,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/mubasher.html"
+  },
+  "pbc": {
+   "url": "https://www.pbc.ps/",
+   "status": 200,
+   "final_url": "https://www.pbc.ps/",
+   "bytes": 189987,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/pbc.html"
+  },
+  "alahly": {
+   "url": "https://www.alahlytv.net/",
+   "error": "<urlopen error timed out>"
+  },
+  "zamalek": {
+   "url": "https://www.zamalek.tv/",
+   "error": "<urlopen error timed out>"
+  },
+  "ontime": {
+   "url": "https://www.ontimesports.com/",
+   "status": 200,
+   "final_url": "https://www.ontimesports.com/",
+   "bytes": 161038,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/ontime.html"
+  },
+  "melody": {
+   "url": "https://melody.tv/",
+   "status": 200,
+   "final_url": "https://www.melody.tv/",
+   "bytes": 191637,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/melody.html"
+  },
+  "melody_link1": {
+   "url": "https://www.melody.tv/program/10700-clips/",
+   "status": 200,
+   "final_url": "https://www.melody.tv/program/10700-clips/",
+   "bytes": 109248,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/melody_link1.html"
+  },
+  "melody_link2": {
+   "url": "https://www.melody.tv/programs/",
+   "status": 200,
+   "final_url": "https://www.melody.tv/programs/",
+   "bytes": 0,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/melody_link2.html"
+  },
+  "melody_link3": {
+   "url": "https://www.melody.tv/program/10730-face-au-public/",
+   "status": 200,
+   "final_url": "https://www.melody.tv/program/10730-face-au-public/",
+   "bytes": 145838,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/melody_link3.html"
+  },
+  "melody_link4": {
+   "url": "https://www.melody.tv/program/10729-documentaires/",
+   "status": 200,
+   "final_url": "https://www.melody.tv/program/10729-documentaires/",
+   "bytes": 144994,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/melody_link4.html"
+  },
+  "melody_link5": {
+   "url": "https://www.melody.tv/program/10732-video-killed-the-radio-star/",
+   "status": 200,
+   "final_url": "https://www.melody.tv/program/10732-video-killed-the-radio-star/",
+   "bytes": 145088,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/melody_link5.html"
+  },
+  "toyor": {
+   "url": "https://toyoraljanah.com/",
+   "status": 200,
+   "final_url": "https://toyoraljanah.com/",
+   "bytes": 125769,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/toyor.html"
+  },
+  "toyor_link1": {
+   "url": "https://toyoraljanah.com/programs",
+   "status": 200,
+   "final_url": "https://toyoraljanah.com/programs/",
+   "bytes": 63210,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/toyor_link1.html"
+  },
+  "toyor_link2": {
+   "url": "https://toyoraljanah.com/programs/%d9%85%d9%86-%d8%a3%d9%86%d8%a7-%d8%9f/",
+   "status": 200,
+   "final_url": "https://toyoraljanah.com/programs/%d9%85%d9%86-%d8%a3%d9%86%d8%a7-%d8%9f/",
+   "bytes": 46178,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/toyor_link2.html"
+  },
+  "toyor_link3": {
+   "url": "https://toyoraljanah.com/programs/%d9%83%d9%88%d8%a7%d9%84%d9%8a%d8%b3/",
+   "status": 200,
+   "final_url": "https://toyoraljanah.com/programs/%d9%83%d9%88%d8%a7%d9%84%d9%8a%d8%b3/",
+   "bytes": 47633,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/toyor_link3.html"
+  },
+  "toyor_link4": {
+   "url": "https://toyoraljanah.com/programs/%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%ad%d8%ac/",
+   "status": 200,
+   "final_url": "https://toyoraljanah.com/programs/%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%ad%d8%ac/",
+   "bytes": 47251,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/toyor_link4.html"
+  },
+  "toyor_link5": {
+   "url": "https://toyoraljanah.com/programs/%d9%85%d9%86%d8%a7%d8%ac%d8%a7%d8%a9/",
+   "status": 200,
+   "final_url": "https://toyoraljanah.com/programs/%d9%85%d9%86%d8%a7%d8%ac%d8%a7%d8%a9/",
+   "bytes": 46429,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/toyor_link5.html"
+  },
+  "karameesh": {
+   "url": "https://karameesh.tv/",
+   "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  "iqraa": {
+   "url": "https://iqraa.com/",
+   "status": 200,
+   "final_url": "https://iqraa.com/",
+   "bytes": 170299,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/iqraa.html"
+  },
+  "almajd": {
+   "url": "https://almajd.tv/",
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "libya_wataniya": {
+   "url": "https://www.ltv.ly/",
+   "status": 200,
+   "final_url": "https://ltv.ly/",
+   "bytes": 163733,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_wataniya.html"
+  },
+  "yemen_tv": {
+   "url": "https://www.yemenitv.net/",
+   "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  "suhail": {
+   "url": "https://suhail.net/programslist.php",
+   "status": 200,
+   "final_url": "https://suhail.net/programslist.php",
+   "bytes": 33904,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/suhail.html"
+  },
+  "suhail_link1": {
+   "url": "https://suhail.net/programs.php?display=true",
+   "status": 200,
+   "final_url": "https://suhail.net/programs.php?display=true",
+   "bytes": 32691,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/suhail_link1.html"
+  },
+  "sudan_tv": {
+   "url": "https://sudantv.sd/ar/?page_id=7",
+   "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "ennahar": {
+   "url": "https://tv.ennaharonline.com/",
+   "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  "entv": {
+   "url": "https://www.entv.dz/",
+   "status": 200,
+   "final_url": "https://www.entv.dz/ar",
+   "bytes": 230242,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/entv.html"
+  },
+  "azhari": {
+   "url": "https://www.azhari.tv/",
+   "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  "libya_ahrar": {
+   "url": "https://shoof.libyaalahrar.tv/",
+   "status": 200,
+   "final_url": "https://shoof.libyaalahrar.tv/",
+   "bytes": 136280,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_ahrar.html"
+  },
+  "libya_ahrar_link1": {
+   "url": "https://shoof.libyaalahrar.tv/category/programs/family-kitchen4/",
+   "status": 200,
+   "final_url": "https://shoof.libyaalahrar.tv/category/programs/family-kitchen4/",
+   "bytes": 65221,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_ahrar_link1.html"
+  },
+  "libya_ahrar_link2": {
+   "url": "https://shoof.libyaalahrar.tv/category/programs/ati-hai-3/",
+   "status": 200,
+   "final_url": "https://shoof.libyaalahrar.tv/category/programs/ati-hai-3/",
+   "bytes": 64757,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_ahrar_link2.html"
+  },
+  "libya_ahrar_link3": {
+   "url": "https://shoof.libyaalahrar.tv/category/programs/fatawi/",
+   "status": 200,
+   "final_url": "https://shoof.libyaalahrar.tv/category/programs/fatawi/",
+   "bytes": 65209,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_ahrar_link3.html"
+  },
+  "libya_ahrar_link4": {
+   "url": "https://shoof.libyaalahrar.tv/category/programs/tadayon-rasheed/",
+   "status": 200,
+   "final_url": "https://shoof.libyaalahrar.tv/category/programs/tadayon-rasheed/",
+   "bytes": 65301,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_ahrar_link4.html"
+  },
+  "libya_ahrar_link5": {
+   "url": "https://shoof.libyaalahrar.tv/category/programs/qamar4/",
+   "status": 200,
+   "final_url": "https://shoof.libyaalahrar.tv/category/programs/qamar4/",
+   "bytes": 65752,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/libya_ahrar_link5.html"
+  },
+  "presstv_api": {
+   "url": "https://www.presstv.co.uk/default/GetSchedule?date=2026-11-22&time=00:00:00",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/default/GetSchedule?date=2026-11-22&time=00:00:00",
+   "bytes": 2,
+   "content_type": "application/json; charset=utf-8",
+   "file": "probe/presstv_api.html"
+  },
+  "presstv_api2": {
+   "url": "https://www.presstv.co.uk/default/GetSchedule?date=2026-11-22&time=12:0:0",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/default/GetSchedule?date=2026-11-22&time=12:0:0",
+   "bytes": 2,
+   "content_type": "application/json; charset=utf-8",
+   "file": "probe/presstv_api2.html"
+  },
+  "presstv_api3": {
+   "url": "https://www.presstv.co.uk/default/GetSchedule?date=2026-11-22",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/default/GetSchedule?date=2026-11-22",
+   "bytes": 2,
+   "content_type": "application/json; charset=utf-8",
+   "file": "probe/presstv_api3.html"
+  },
+  "presstv_api4": {
+   "url": "https://www.presstv.ir/default/GetSchedule?date=2026-11-22&time=12:0:0",
+   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.presstv.ir'. (_ssl.c:1081)>"
+  },
+  "presstv_day": {
+   "url": "https://www.presstv.co.uk/default/schedule?date=2026-11-22",
+   "status": 200,
+   "final_url": "https://www.presstv.co.uk/default/schedule?date=2026-11-22",
+   "bytes": 25424,
+   "content_type": "text/html; charset=utf-8",
+   "file": "probe/presstv_day.html"
+  },
+  "es_index": {
+   "url": "https://epgshare01.online/epgshare01/",
+   "status": 200,
+   "final_url": "https://epgshare01.online/epgshare01/",
+   "bytes": 40292,
+   "content_type": "text/html",
+   "file": "probe/es_index.html"
+  },
+  "rotana_csvpage": {
+   "url": "https://rotana.net/%D8%AC%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/",
+   "status": 200,
+   "final_url": "https://rotana.net/en/%d8%ac%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac",
+   "bytes": 86511,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/rotana_csvpage.html"
+  },
+  "alkass_next": {
+   "url": "https://www.alkass.net/tvguide?day=next",
+   "status": 200,
+   "final_url": "https://www.alkass.net/tvguide?day=next",
+   "bytes": 71476,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/alkass_next.html"
+  },
+  "snrtnode_arryadia": {
+   "url": "https://www.snrt.ma/ar/node/4070",
+   "status": 200,
+   "final_url": "https://www.snrt.ma/ar/node/4070",
+   "bytes": 150047,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/snrtnode_arryadia.html"
+  },
+  "snrtnode_athaqafia": {
+   "url": "https://www.snrt.ma/ar/node/4071",
+   "status": 200,
+   "final_url": "https://www.snrt.ma/ar/node/4071",
+   "bytes": 246523,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/snrtnode_athaqafia.html"
+  },
+  "snrtnode_assadissa": {
+   "url": "https://www.snrt.ma/ar/node/4073",
+   "status": 200,
+   "final_url": "https://www.snrt.ma/ar/node/4073",
+   "bytes": 649047,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/snrtnode_assadissa.html"
+  },
+  "snrtnode_laayoune": {
+   "url": "https://www.snrt.ma/ar/node/4069",
+   "status": 200,
+   "final_url": "https://www.snrt.ma/ar/node/4069",
+   "bytes": 99911,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/snrtnode_laayoune.html"
+  },
+  "snrtnode_tamazight": {
+   "url": "https://www.snrt.ma/ar/node/4075",
+   "status": 200,
+   "final_url": "https://www.snrt.ma/ar/node/4075",
+   "bytes": 342580,
+   "content_type": "text/html; charset=UTF-8",
+   "file": "probe/snrtnode_tamazight.html"
+  }
+ },
+ "feeds": {
+  "oaatiq_maroc": {
+   "url": "https://raw.githubusercontent.com/oaatiq/tv-playlist/main/epg.xml.gz",
+   "status": 200,
+   "final_url": "https://raw.githubusercontent.com/oaatiq/tv-playlist/main/epg.xml.gz",
+   "content_type": "application/octet-stream",
+   "bytes": 1608670,
+   "channels": 602,
+   "programmes": 26815,
+   "arabic_titles": 0,
+   "first": "20261028010000",
+   "last": "20261101032000",
+   "new_channels": 590,
+   "sample": [
+    "Bloomberg TV+",
+    "Brut.",
+    "CNews",
+    "CNN Headlines International",
+    "Euronews EN DIRECT",
+    "LCP-AN-PS",
+    "RMC TALK INFO",
+    "Tech &amp; Co",
+    "AFTER FOOT TV",
+    "Canal+ Sport",
+    "Drive TV",
+    "Equidia",
+    "FIFA+",
+    "INTER 24/7",
+    "Journal du Golf TV",
+    "KOZOOM TV",
+    "L'Equipe",
+    "RMC MECANIC",
+    "So Foot+",
+    "Tennis+",
+    "World Poker Tour",
+    "100% Comedy",
+    "Ardivision",
+    "Bons Plans et Arnaques",
+    "Epicurieux avec Jamy"
+   ],
+   "sample_new": [
+    "Brut.",
+    "CNews",
+    "CNN Headlines International",
+    "Euronews EN DIRECT",
+    "LCP-AN-PS",
+    "RMC TALK INFO",
+    "Tech &amp; Co",
+    "AFTER FOOT TV",
+    "Canal+ Sport",
+    "Drive TV",
+    "Equidia",
+    "INTER 24/7",
+    "Journal du Golf TV",
+    "KOZOOM TV",
+    "L'Equipe",
+    "RMC MECANIC",
+    "So Foot+",
+    "Tennis+",
+    "World Poker Tour",
+    "100% Comedy",
+    "Ardivision",
+    "Bons Plans et Arnaques",
+    "Epicurieux avec Jamy",
+    "House of Creators",
+    "Incroyables Fortunes",
+    "Juste Pour Rire",
+    "Motus",
+    "RMC Découverte",
+    "RMC Life",
+    "RMC MYSTERE",
+    "RMC Wow",
+    "Action Club",
+    "Allociné",
+    "Box Office Drama",
+    "Box Office Thriller",
+    "Brefcinema",
+    "Ciné Nanar",
+    "Ciné Western",
+    "Comédies - Rakuten TV",
+    "Drames - Rakuten TV"
+   ],
+   "tz": [
+    " +0000"
+   ]
+  },
+  "ayoub_bein_ar": {
+   "url": "https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-MENA-FR-EPG-service-/main/public/epg-bein-mena-ar.xml",
+   "status": 200,
+   "final_url": "https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-MENA-FR-EPG-service-/main/public/epg-bein-mena-ar.xml",
+   "content_type": "text/plain; charset=utf-8",
+   "bytes": 1348034,
+   "channels": 39,
+   "programmes": 3258,
+   "arabic_titles": 0,
+   "first": "20260413140000",
+   "last": "20260420182000",
+   "new_channels": 0,
+   "sample": [
+    "beIN SPORTS 1 AFC",
+    "beIN SPORTS 8",
+    "beIN SPORTS 6 AFC",
+    "beIN SPORTS NBA",
+    "beIN SPORTS MAX 1",
+    "beIN SPORTS MAX 4",
+    "beIN SPORTS 9",
+    "beIN SPORTS XTRA 4",
+    "beIN SPORTS NEWS",
+    "beIN SPORTS MAX 2",
+    "beIN SPORTS 3",
+    "beIN SPORTS EN 1",
+    "beIN SPORTS XTRA 6",
+    "beIN SPORTS FR 2",
+    "beIN SPORTS AFC",
+    "beIN SPORTS XTRA 5",
+    "beIN 4K",
+    "beIN SPORTS",
+    "beIN SPORTS EN 2",
+    "beIN SPORTS XTRA 7",
+    "beIN SPORTS MAX 3",
+    "beIN SPORTS 1",
+    "beIN SPORTS 4 AFC",
+    "beIN SPORTS XTRA 9",
+    "beIN SPORTS FR 1"
+   ],
+   "sample_new": [],
+   "tz": [
+    " +0000"
+   ]
+  },
+  "ayoub_alwan": {
+   "url": "https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-MENA-FR-EPG-service-/main/alwan_sports_epg.xml",
+   "status": 200,
+   "final_url": "https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-MENA-FR-EPG-service-/main/alwan_sports_epg.xml",
+   "content_type": "text/plain; charset=utf-8",
+   "bytes": 59275,
+   "channels": 1,
+   "programmes": 168,
+   "arabic_titles": 168,
+   "first": "20261122025736",
+   "last": "20261129025736",
+   "new_channels": 1,
+   "sample": [
+    "Alwan Sports"
+   ],
+   "sample_new": [
+    "Alwan Sports"
+   ],
+   "tz": [
+    " +0000"
+   ]
+  },
+  "unified_mena": {
+   "url": "https://raw.githubusercontent.com/ouy7549-prog/Unified-MENA-EPG/main/combined_epg_final.xml",
+   "status": 200,
+   "final_url": "https://raw.githubusercontent.com/ouy7549-prog/Unified-MENA-EPG/main/combined_epg_final.xml",
+   "content_type": "text/plain; charset=utf-8",
+   "bytes": 13629938,
+   "channels": 292,
+   "programmes": 27536,
+   "arabic_titles": 24703,
+   "first": "20261121000000",
+   "last": "20261125173000",
+   "new_channels": 290,
+   "sample": [
+    "Shahid 983124",
+    "Shahid 49923697648201",
+    "Shahid 387238",
+    "Shahid 988045",
+    "Shahid 409387",
+    "Shahid 49923712885383",
+    "Shahid 49923434082342",
+    "Shahid 49923172117967",
+    "Shahid 49923697660442",
+    "Shahid 49923088749329",
+    "Shahid 1029746",
+    "Shahid 400917",
+    "Shahid 986014",
+    "Shahid 951783",
+    "Shahid 969745",
+    "Shahid 49922763510387",
+    "Shahid 995495",
+    "Shahid 49923569816895",
+    "Shahid 49923697659290",
+    "Shahid 49923518527492",
+    "Shahid 49922904934759",
+    "Shahid 946946",
+    "Shahid 49923122575716",
+    "Shahid 997605",
+    "Shahid 975435"
+   ],
+   "sample_new": [
+    "Shahid 983124",
+    "Shahid 49923697648201",
+    "Shahid 387238",
+    "Shahid 988045",
+    "Shahid 409387",
+    "Shahid 49923712885383",
+    "Shahid 49923434082342",
+    "Shahid 49923172117967",
+    "Shahid 49923697660442",
+    "Shahid 49923088749329",
+    "Shahid 1029746",
+    "Shahid 400917",
+    "Shahid 986014",
+    "Shahid 951783",
+    "Shahid 969745",
+    "Shahid 49922763510387",
+    "Shahid 995495",
+    "Shahid 49923569816895",
+    "Shahid 49923697659290",
+    "Shahid 49923518527492",
+    "Shahid 49922904934759",
+    "Shahid 946946",
+    "Shahid 49923122575716",
+    "Shahid 997605",
+    "Shahid 975435",
+    "Shahid 946948",
+    "Shahid 49923172215352",
+    "Shahid 400921",
+    "Shahid 418308",
+    "Shahid 49923446898171",
+    "Shahid 862837",
+    "Shahid 986346",
+    "Shahid 388567",
+    "Shahid 387251",
+    "Shahid 387937",
+    "Shahid 49923697545394",
+    "Shahid 49923088717401",
+    "Shahid 49923693965985",
+    "Shahid 388566",
+    "Shahid 946940"
+   ],
+   "tz": [
+    " +0000"
+   ]
+  }
+ }
+}
