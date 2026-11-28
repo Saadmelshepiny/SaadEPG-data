@@ -1,0 +1,20 @@
+ar_lbci      99 programmes
+ar_tunisia   153 programmes
+[SaadEPG] TRT Arabi: HTTP Error 403: Forbidden
+ar_trt       0 programmes
+sat.tv merged: 7/8 West 0 channels (0 Arabic named in English too), 0 programmes | Hot Bird 0 channels, 0 programmes
+alkass: 8 channels with programmes, 154 programmes
+art ART Aflam 1: 10 films
+art ART Aflam 2: 9 films
+art: 19 programmes
+snrt Athaqafia: 184 programmes
+snrt Assadissa: 511 programmes
+snrt Al Aoula Laayoune: 58 programmes
+snrt Tamazight: 180 programmes
+snrt Arryadia: 0 programmes
+snrt: 933 programmes
+crowd: 0 comments, 0 complete uploads, 0 old comments deleted
+crowd: 0 links by hand (0 uploads with links)
+crowd: 0 channels without a guide sent what they aired
+crowd: 0 Arabic channels from the receiver's satellite guide
+picons: 1204 logos of 2026-11-23 kept

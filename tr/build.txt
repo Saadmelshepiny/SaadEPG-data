@@ -1,0 +1,409 @@
+real English film names (TMDB): 3294
+English dictionaries: bg 55379, cs 131984, da 62466, de 240984, el 73478, es 67668, fi 38144, fr 170903, he 36868, hu 64852, it 109109, lt 15022, lv 44267, nb 24847, nl 68802, pl 260000, pt 52658, ro 39541, ru 161330, sk 58483, sl 194276, sq 34559, sv 25147, tr 34630, uk 86
+   real Arabic titles/descriptions from the English copy: 3435
+ar_shahid      OK     71 channels    9703 programmes    257 KB
+   real Arabic titles/descriptions from the English copy: 4957
+ar_osn         OK     65 channels    7592 programmes    365 KB
+ar_elcinema    OK    101 channels    5035 programmes    183 KB
+   real Arabic titles/descriptions from the English copy: 1090
+ar_bein        OK     70 channels    5460 programmes     60 KB
+   real Arabic titles/descriptions from the English copy: 234
+ar_rotana      OK      7 channels     325 programmes     19 KB
+ar_aljazeera   OK      2 channels     139 programmes      4 KB
+ar_beinsports  OK     31 channels    2599 programmes     61 KB
+ar_roya        OK      7 channels     796 programmes     21 KB
+ar_art         OK      4 channels     141 programmes      7 KB
+ar_ayn         OK      4 channels     651 programmes      8 KB
+ar_snrt        FAIL empty guide
+ar_lbci        OK      1 channels      96 programmes      4 KB
+ar_tunisia     OK      2 channels     153 programmes      5 KB
+ar_trt         FAIL no grab output
+eg             FAIL HTTP Error 404: Not Found
+ae             OK    812 channels   64898 programmes   1232 KB
+sa             OK     30 channels    4295 programmes     74 KB
+bein           OK     78 channels    2600 programmes     31 KB
+   English titles: 15754/15760 (99%)
+it             OK    156 channels   15760 programmes   1414 KB
+   English titles: 87881/87892 (99%)
+pl             OK    588 channels   87892 programmes   7678 KB
+   quality gate: Magenta.Sport.7.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Magenta.Sport.8.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Magenta.Sport.4K.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: CGTN.DOCUMENTARY.HD.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Fashion.TV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ERT.COSMOS.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Al.Jazeera.English.HD.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: FREEDOM.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: 1+1.Marathon.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV5MONDE.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Euronews.Italian.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Euronews.Russian.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Al.Arabiya.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΕΠΙΛΟΓΕΣ.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: EURO.TV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: GNOMI.TV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΛΥΧΝΟΣ.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΑRT.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: SUPER.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΑΛΗΘΕΙΑ.TV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΠΑΤΡΙΔΑ.TV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DIKTYO1.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΙTV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: START.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΣΑΤ.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: IRIDA.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: KOS.TV.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: ΘΑΡΡΙ.gr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: VOLCANO.gr dropped (no real schedule: the same few titles in long blocks)
+   English titles: 20492/20621 (99%)
+gr             OK    276 channels   20621 programmes   1727 KB
+   quality gate: Carthage+.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Sky.News.Arabia.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Télé.Maroc.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Lana.TV.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Euro.Star.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Al.Masriya.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: KITCHEN.MANIA.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Iqraa.International.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: HANNIBAL.TV.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Syria.TV.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DMC.Drama.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: EXPLORE.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DMC.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Watania.2.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Bahia.TV.fr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Dizi.fr dropped (no real schedule: the same few titles in long blocks)
+   English titles: 36297/36325 (99%)
+fr             OK    393 channels   36325 programmes   2995 KB
+   quality gate: Panjab.Radio.uk dropped (no real schedule: the same few titles in long blocks)
+uk             OK    382 channels   30655 programmes   1307 KB
+   English titles: 17789/17799 (99%)
+ro             OK    350 channels   17799 programmes    814 KB
+   English titles: 69936/69972 (99%)
+ua             OK   1142 channels   69972 programmes   1584 KB
+   quality gate: Fight.Network.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Hype.FM.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: SRT.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Bap.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Drina.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Fokus.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.HIT.plus.Batočina.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Mačva.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Priboj.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Strela.rs dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Zvezda.TV.rs dropped (no real schedule: the same few titles in long blocks)
+   English titles: 67716/67757 (99%)
+rs             OK    688 channels   67757 programmes   5738 KB
+   quality gate: NONSTOP.hr dropped (no real schedule: the same few titles in long blocks)
+   English titles: 18572/18584 (99%)
+hr             OK    194 channels   18584 programmes   1296 KB
+   English titles: 19382/19392 (99%)
+ba             OK    229 channels   19392 programmes   1981 KB
+   quality gate: DTV.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Dream.Porn.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Fax.News.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: IPKO.Promo.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: K-Sport.4.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Life.HD.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Premium.Channel.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: RTSH.3.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: RTSH.Muzike.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Star.Plus.TV.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Suite.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Festina.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Mitrovica.al dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Tao.Tao.al dropped (no real schedule: the same few titles in long blocks)
+   English titles: 10338/10343 (99%)
+al             OK    160 channels   10343 programmes    625 KB
+   English titles: 2398/2402 (99%)
+bg             OK     60 channels    2402 programmes    158 KB
+   English titles: 17398/17401 (99%)
+hu             OK    170 channels   17401 programmes   1682 KB
+   English titles: 7308/7318 (99%)
+il             OK    107 channels    7318 programmes    779 KB
+oe_egypt1      OK    103 channels    4614 programmes    186 KB
+oe_egypt2      OK    103 channels    4796 programmes    148 KB
+oe_uae1        OK    812 channels   49690 programmes   1433 KB
+oe_uae2        FAIL no element found: line 1, column 0
+oe_uae3        OK     66 channels    4962 programmes    121 KB
+oe_uae4        OK     66 channels    2818 programmes     75 KB
+oe_uae5        FAIL no element found: line 1, column 0
+oe_uae6        OK     24 channels    1729 programmes     49 KB
+oe_uaepremium2 FAIL no element found: line 1, column 0
+oe_uaepremium3 FAIL no element found: line 1, column 0
+oe_qatar1      OK     31 channels    1098 programmes     27 KB
+oe_qatar2      OK     35 channels    1230 programmes     12 KB
+oe_qatar3      OK     39 channels    1350 programmes     13 KB
+oe_qatar4      OK     33 channels    2857 programmes     29 KB
+oe_qatar5      OK     31 channels    3333 programmes     40 KB
+oe_qatar6      OK      8 channels     106 programmes      1 KB
+oe_qatarpremium FAIL no element found: line 1, column 0
+oe_saudiarabia1 OK    132 channels    8383 programmes    263 KB
+oe_saudiarabia2 OK    132 channels    6056 programmes    180 KB
+oe_saudiarabia3 OK      5 channels     421 programmes     16 KB
+oe_saudiarabia4 OK      5 channels     302 programmes     17 KB
+oe_arabiapremiumar FAIL no element found: line 1, column 0
+   English titles: 41226/41231 (99%)
+oe_poland      OK    488 channels   41231 programmes   3911 KB
+   English titles: 37007/37009 (99%)
+oe_poland1     OK    565 channels   37009 programmes   1749 KB
+   English titles: 42125/42133 (99%)
+oe_poland2     OK    600 channels   42133 programmes    664 KB
+oe_polandpremium FAIL no element found: line 1, column 0
+sa1            FAIL HTTP Error 404: Not Found
+aljazeera      OK      1 channels     108 programmes      2 KB
+   English titles: 22036/22195 (99%)
+de             OK    251 channels   22195 programmes   3134 KB
+   English titles: 13841/13842 (99%)
+at             OK    136 channels   13842 programmes   2578 KB
+   quality gate: Camera.dei.Deputati.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Inter.TV.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: First.Channel.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Phoenix.Info.News.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: CGTN.Documentary.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Deutscher.Bundestag.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: SYLT1.ch dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.Rheintal.ch dropped (no real schedule: the same few titles in long blocks)
+   English titles: 57719/64435 (89%)
+ch             OK    722 channels   64435 programmes   5316 KB
+   quality gate: ESPN.Premium.nl dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Film1.Pakket.nl dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Hindi.Pakket.nl dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Turks.Pakket.nl dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Viaplay.nl dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Ziggo.Sport.Extra.nl dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Ziggo.Sport.Totaal.nl dropped (no real schedule: the same few titles in long blocks)
+   English titles: 16767/16767 (100%)
+nl             OK    151 channels   16767 programmes   1501 KB
+   quality gate: Aristo.TV.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Volksmusik.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: meinTVshop.(MTVS).be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Cubavisión.Internacional.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Óčko.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: KICC.TV.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: GeniusPlusTV.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: TV.8.Russia.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Hitradio.OE3.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: 4Fun.Fit.&.Dance.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: 2M.Monde.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: JML.Direct.be dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Takbeer.TV.be dropped (no real schedule: the same few titles in long blocks)
+   English titles: 37347/57766 (64%)
+be             OK    568 channels   57766 programmes   5863 KB
+   quality gate: BOM.Cine.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Be.Mad.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DAZN.3.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DAZN.4.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DAZN.LaLiga.2.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: LaLiga.TV.Hypermotion.3.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: M+.LALIGA.TV.3.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Movistar.Golf.2.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Movistar.Liga.de.Campeones.2.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Movistar.Liga.de.Campeones.3.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Movistar.Liga.de.Campeones.4.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Real.Madrid.TV.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Squirrel.2.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Squirrel.es dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Teledeporte.es dropped (no real schedule: the same few titles in long blocks)
+   English titles: 5442/5447 (99%)
+es             OK    225 channels    5447 programmes    669 KB
+   quality gate: Canal.Galeria.pt dropped (no real schedule: the same few titles in long blocks)
+   English titles: 15792/15882 (99%)
+pt             OK    173 channels   15882 programmes   1370 KB
+   quality gate: Televize.Přerov.cz dropped (no real schedule: the same few titles in long blocks)
+   English titles: 41098/41117 (99%)
+cz             OK    530 channels   41117 programmes   4366 KB
+   English titles: 17833/17851 (99%)
+sk             OK    160 channels   17851 programmes   1801 KB
+   quality gate: EKOL.TV.tr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: HALK.TV.tr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: KIBRIS.TV.tr dropped (no real schedule: the same few titles in long blocks)
+   quality gate: KANAL.T.tr dropped (no real schedule: the same few titles in long blocks)
+   English titles: 21917/21939 (99%)
+tr             OK    270 channels   21939 programmes   1691 KB
+   English titles: 13976/13985 (99%)
+tr2            OK    140 channels   13985 programmes    179 KB
+   quality gate: YouSee.Premiere.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: HBO.Max.Standard.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: C.More.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Min.Bio.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Dansk.Filmskat.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: SkyShowtime.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Youtube.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Nick+.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Nordisk.Film+.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DRTV.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: HBO.Max.Standard.+.Sport.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: BBC.Nordic+.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: Køge.tv.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: VråNet.Info.dk dropped (no real schedule: the same few titles in long blocks)
+   quality gate: DanmarkC.TV.dk dropped (no real schedule: the same few titles in long blocks)
+   English titles: 13265/13267 (99%)
+dk             OK    133 channels   13267 programmes   1697 KB
+   English titles: 9683/9685 (99%)
+no             OK    125 channels    9685 programmes    855 KB
+   English titles: 8362/13346 (62%)
+se             OK    123 channels   13346 programmes   1299 KB
+   English titles: 10107/10108 (99%)
+fi             OK     98 channels   10108 programmes   1087 KB
+   English titles: 8195/8205 (99%)
+lt             OK     74 channels    8205 programmes    860 KB
+   English titles: 10829/10834 (99%)
+lv             OK     99 channels   10834 programmes    769 KB
+   quality gate: RIK.HD.cy dropped (no real schedule: the same few titles in long blocks)
+   English titles: 8575/8578 (99%)
+cy             OK     80 channels    8578 programmes    400 KB
+ie             OK    159 channels   17538 programmes   1192 KB
+   English titles: 959/959 (100%)
+sportklub      OK     16 channels     959 programmes     47 KB
+crowd_ar       FAIL not made in this run
+   English titles: 0/125 (0%)
+alkass         OK      8 channels     125 programmes      1 KB
+   English titles: 20194/21127 (95%)
+rytec_it       OK    131 channels   21127 programmes   1216 KB
+   English titles: 3473/3478 (99%)
+rytec_it_sm    OK     37 channels    3478 programmes    186 KB
+   English titles: 5395/8392 (64%)
+rytec_gr       OK     77 channels    8392 programmes    718 KB
+   English titles: 14250/15234 (93%)
+rytec_ro       OK     80 channels   15234 programmes    731 KB
+   English titles: 9860/10682 (92%)
+rytec_bg       OK    120 channels   10682 programmes    813 KB
+   English titles: 9647/9652 (99%)
+rytec_hr       OK     69 channels    9652 programmes    933 KB
+   English titles: 8657/9042 (95%)
+rytec_hr_x     OK     53 channels    9042 programmes    718 KB
+   English titles: 6603/6771 (97%)
+rytec_hr_sm    OK    123 channels    6771 programmes    811 KB
+   English titles: 7755/7773 (99%)
+rytec_rs       OK     65 channels    7773 programmes    603 KB
+   English titles: 11255/11534 (97%)
+rytec_rs_x     OK     82 channels   11534 programmes    880 KB
+   English titles: 4496/4496 (100%)
+rytec_si       OK     38 channels    4496 programmes    387 KB
+   English titles: 8031/8037 (99%)
+rytec_fr       OK     63 channels    8037 programmes    954 KB
+   English titles: 5818/12602 (46%)
+rytec_news     OK     55 channels   12602 programmes    352 KB
+osn_ar         OK     45 channels    7296 programmes    357 KB
+   English titles: 0/15 (0%)
+art            OK      2 channels      15 programmes      3 KB
+   English titles: 0/8373 (0%)
+iptvepg_eg     OK     88 channels    8373 programmes    117 KB
+   English titles: 0/9234 (0%)
+iptvepg_sa     OK    138 channels    9234 programmes     40 KB
+   English titles: 0/4176 (0%)
+iptvepg_ae     OK     58 channels    4176 programmes     18 KB
+   English titles: 0/458 (0%)
+snrt_site      OK      4 channels     458 programmes      5 KB
+   English titles: 0/127 (0%)
+alwan          OK      1 channels     127 programmes      1 KB
+   English titles: 0/4012 (0%)
+mena_unified   OK     35 channels    4012 programmes     83 KB
+ar_from_eu     OK     76 channels    5210 programmes (extracted)
+time anchor oe_saudiarabia2 not used today: no clear agreement with the official sites
+time anchor oe_saudiarabia4 not used today: no clear agreement with the official sites
+time anchor oe_uae1 not used today: no clear agreement with the official sites
+time anchor oe_egypt1 not used today: off by -2.0 h (11/12 channels)
+time anchor oe_egypt2 not used today: no clear agreement with the official sites
+time fixed: ar_elcinema      +5.0 h for the file, own shift for 1 channels: elcinema.1354 +6.0h
+time fixed: ar_rotana        +3.0 h for the file, own shift for 1 channels: rotana.434 +4.0h
+time fixed: ae               +0.0 h for the file, own shift for 1 channels: beIN.Sports.HD.ae +3.0h
+time fixed: bein             -2.0 h for the file
+time fixed: oe_egypt1        +2.0 h for the file, own shift for 1 channels: إم بي سي 5.eg +3.0h
+time fixed: oe_egypt2        +0.0 h for the file, own shift for 1 channels: MBC MAX.eg +2.0h
+time fixed: oe_uae1          +0.0 h for the file, own shift for 1 channels: beIN.Sports.HD.ae +3.0h
+time fixed: oe_qatar2        -3.0 h for the file
+time fixed: oe_qatar3        -3.0 h for the file
+time fixed: oe_qatar4        -3.0 h for the file
+eu time fixed: it           1 channels: NHK.World.TV.HD.it -2h
+eu time fixed: pl           2 channels: BBC.World.News.pl +1h, Fashion.TV.pl +1h
+eu time fixed: fr           6 channels: Arte...fr +1h, France.2..fr +1h, France.3..fr +1h, France.4..fr +1h, France.5..fr +1h, France.info.fr +1h
+eu time fixed: ro           13 channels: Bloomberg.ro +1h, CGTN.ro -1h, Extreme.Sports.ro +1h, Mezzo.Live.HD.ro +1h, Mezzo.ro +1h, MyZen.HD.ro +2h
+eu time fixed: ua           4 channels: BBC.News.[EU].ua -1h, Erox.(для.Украины).[EU].ua -1h, Erox.[EU].ua -1h, Fashion.TV.Europe.[EU].ua +1h
+eu time fixed: rs           171 channels: 24Kitchen.rs -1h, 360.Tune.box.rs +2h, ADRIA.TV.rs -1h, AMC.rs -1h, AXN.rs -1h, Agro.TV.rs -1h
+eu time fixed: hr           1 channels: Adult.Channel.hr -1h
+eu time fixed: ba           2 channels: Al.Jazeera.Arabic.(BIH).ba +1h, Current.Time.(BIH).ba +1h
+eu time fixed: al           1 channels: Power.Turk.al -2h
+eu time fixed: hu           1 channels: English.Club.TV.hu -1h
+eu time fixed: oe_poland    1 channels: CURRENTTIMETV.pl +1h
+eu time fixed: oe_poland1   1 channels: Fashion TV.pl +1h
+eu time fixed: oe_poland2   1 channels: Fashion TV.pl +1h
+eu time fixed: de           2 channels: Adult.Channel.de -1h, Kanal.7.Int.de -1h
+eu time fixed: at           2 channels: CNBC.at +1h, CNN.at +1h
+eu time fixed: ch           7 channels: Espreso.TV.ch -2h, Euronews.F.ch -1h, Trace.Caribbean.ch +2h, Trace.Urban.ch +2h, i24.News.Français.ch +1h, i24.News.ch -1h
+eu time fixed: nl           1 channels: Shorts.TV.nl +2h
+eu time fixed: es           1 channels: CGTN.Español.es -1h
+eu time fixed: pt           5 channels: Daystar.pt -1h, FTV.HD.pt -1h, Fuel.TV.HD.pt -1h, ID.Investigation.Discovery.pt -2h, Trace.Urban.HD.pt +2h
+eu time fixed: cz           3 channels: AnimalPlanet.UK.cz +1h, CCTV4.Europe.cz -1h, Jugoton.cz +1h
+eu time fixed: tr           4 channels: BBC.News.tr +1h, BLOOMBERG.tr +1h, Bloomberg.tr +1h, CNBC.tr +1h
+eu time fixed: tr2          2 channels: AL.JAZEERA.ARABIC.tr +1h, BLOOMBERG.HT.tr +1h
+eu time fixed: fi           2 channels: Discovery.Channel.fi +1h, Extreme.Sports.Channel.fi -1h
+eu time fixed: lt           19 channels: AMC.lt +2h, Animal.Planet.lt +2h, Blue.Hustler.lt +2h, CNN.lt +2h, Discovery.lt +2h, DocuBox.lt +2h
+eu time fixed: lv           3 channels: Al.Jazeera.International.HD.lv +1h, Disney.Junior.lv -1h, Prime.Fight.HD.lv +1h
+eu time fixed: cy           1 channels: Disney.Junior.cy +1h
+eu time fixed: rytec_ro     1 channels: Mezzo.ro +1h
+eu time fixed: rytec_hr     1 channels: BN2.ba +1h
+eu time fixed: rytec_hr_x   3 channels: MTV.hr -1h, NickJR.hr +1h, Nickelodeon.hr +1h
+eu time fixed: rytec_hr_sm  1 channels: FilmBoxArthouse.hr +1h
+eu time fixed: rytec_rs     2 channels: TV2.rs +1h, ToxicTV.rs +1h
+eu time fixed: rytec_rs_x   3 channels: AXNAdria.rs +1h, BN.rs +1h, SuperstarTV.rs +2h
+eu time fixed: rytec_news   2 channels: BBCArabic.net +1h, EuronewsFR.nws +1h
+eu time fixed: ar_from_eu   2 channels: Al.Jazeera.Arabic.(BIH).ba +1h, Hayat.Folk.Box.rs -1h
+copied schedules removed: 251 channels
+gold confidence: 404 channels agree >= 80%, 37 between 50 and 80, 3 below 50
+gold: 444 channels from 1020 members (40 sources), 39980 programmes, 0 English titles given their Arabic one
+   gold.mbc1                    ar_shahid/shahid.387238 + ar_elcinema/elcinema.1127 + iptvepg_eg/MBC1.eg + ar_osn/osn.9908 + ae/MBC.1.ae + oe_uae1/MBC.1.ae
+   gold.mbcdrama                ar_shahid/shahid.387251 + ar_osn/osn.9976 + ar_elcinema/elcinema.1194 + iptvepg_eg/MBCDrama.eg + ae/MBC.Drama.ae + oe_uae1/MBC.Drama.ae
+   gold.mbciraq                 ar_shahid/shahid.387294 + ar_osn/osn.9245 + ar_elcinema/elcinema.1340 + iptvepg_eg/MBCIraq.eg + ae/MBC.Iraq.HD.ae + oe_uae1/MBC.Iraq.HD.ae
+   gold.mbcmasr2                ar_shahid/shahid.387293 + ar_osn/osn.9297 + ar_elcinema/elcinema.1278 + ae/MBC.Masr.2.HD.ae + oe_uae1/MBC.Masr.2.HD.ae
+   gold.mbc5                    ar_shahid/shahid.387937 + ar_osn/osn.9995 + ar_elcinema/elcinema.1354 + iptvepg_eg/MBC5.eg + oe_uae6/MBC5.ae
+   gold.mbc2                    ar_shahid/shahid.400917 + oe_uae6/MBC2.ae + ar_elcinema/elcinema.1128 + ae/MBC.2.ae + oe_uae1/MBC.2.ae
+   gold.mbcmax                  ar_shahid/shahid.400924 + oe_saudiarabia1/MBC Max HD.sa + oe_uae6/MBC MAX.ae + ar_elcinema/elcinema.1132 + oe_saudiarabia2/MBC Max HD.sa
+   gold.mbc3                    ar_shahid/shahid.409385 + ar_osn/osn.9971 + iptvepg_eg/MBC3.eg + oe_uae6/MBC3.ae + ar_elcinema/elcinema.1241
+   gold.mbc3usa                 ar_shahid/shahid.816771 + oe_saudiarabia1/MBC 3.sa + oe_saudiarabia3/MBC 3 HD.sa + oe_saudiarabia4/MBC 3 HD.sa + oe_saudiarabia2/MBC 3.sa
+   gold.abudhabitvhd            ar_osn/osn.9939 + ar_elcinema/elcinema.1136 + mena_unified/Starz_admnabudhabichannel + ae/Abu.Dhabi.HD.ae + oe_uae1/Abu.Dhabi.HD.ae
+   gold.alarabiya               ar_shahid/shahid.387286 + ar_osn/osn.9970 + iptvepg_eg/العربية.eg + ae/Al.Arabiya.HD.ae
+   gold.alhadath                ar_shahid/shahid.387288 + ar_osn/osn.9910 + iptvepg_eg/الحدث.eg + mena_unified/Starz_alhadath
+tmdb: length of 20 films asked
+tmdb: 772 of 1326 films known (year, original title, poster) - 88 titles asked this run
+films: 338 confirmed by 2+ sources, 815 reruns of the last week, 28 slots shorter than the film
+sports centre: 215 matches (214 first airings, 87 with Arabic names) | cinema: 1326 films (0 with a poster)
+   28/11 06:00  Nottingham Forest vs Chelsea - English Premier League 2026/2027 - Week 12  [beIN Sports 1 English, beIN SPORTS EN 1, beIN_SPORTS1_ENGLISH_Digital_Mono_AR]
+   28/11 06:00  سوريا ضد نيوزيلندا - هيئة مصافي آسيا - 2027  [beIN Sports 7]
+   28/11 07:00  Asvel Villeurbanne (FRA) vs Olimpia Milan (ITA) (Euroleague – R14)  [Dubai Sports 1, Dubai Sports 1.ae]
+   28/11 07:00  الدوري البرازيلي:فلومينينسي × كروزيرو  [Dubai Sports 2.sa]
+   28/11 07:00  الدوري الأوروبي لكرة السلة:أسفيل فيلوربان × أولمبيا ميلانو  [Dubai Sports HD.sa]
+   28/11 07:00  FIFA U-17 World Cup Algeria vs. Montenegro  [Alkass Four]
+   28/11 07:00  Laval vs Montpellier - Ligue 2 - J13 - FOOTBALL 2026-2027  [beIN SPORTS FR 2, beIN_SPORTS2_FRENCH_Digital_Mono_AR, beIN_SPORTS2_FRENCH_Digital_Mono_EN]
+   28/11 07:10  Lyon vs Lillestrøm - UEFA Europa League 2026/2027 - MD 5  [beIN Sports 5, beIN_SPORTS5_DIGITAL_Mono_AR, beIN SPORTS 5.qa]
+history: 2397 channels updated, 2960 kept
+history: 0 channels from the broadcast log of the receiver
+estimated guide: 1889 channels without (enough) real data got 135799 programmes from their repeating grid
+wanted: 0 channels without a guide on the receiver, 0 with a possible match
+schedule fingerprints: 14000 channels, 1995 KB
+per-channel files: 16183 channels from 94 guides, 85 MB, 117s
+real Arabic titles/descriptions (pairs_ar): 9551
+done: 93/105 guides
+film_en: 39297 film titles in the foreign guides (bg 1191, cs 3388, da 405, de 5099, el 2412, es 538, fi 346, fr 1235, he 307, hu 1175, it 2304, lt 593, lv 548, nb 385, nl 2087, pl 6737, pt 778, ro 1217, sk 1050, sl 8645, sq 1097, sv 568, tr 1257, uk 3964)
+film_en: 8000 asked, 1956 known now; real English names: bg 151, cs 118, da 32, de 527, el 188, es 133, fi 30, fr 292, he 130, hu 469, it 365, lt 40, lv 34, nb 5, nl 101, pl 629, pt 238, ro 249, sk 50, sl 383, sq 10, sv 27, tr 148, uk 6
+   pl: Klopsiki i inne zjawiska pogodowe -> Cloudy with a Chance of Meatballs
+   pl: Grinch: Świąt nie będzie -> How the Grinch Stole Christmas
+   pl: Władcy umysłów -> The Adjustment Bureau
+   pl: Cudzoziemiec -> The Foreigner
+   it: Giulio Regeni: Tutto il male del mondo -> Giulio Regeni: All The Evil In The World
+   it: Chernobyl - I nastri perduti -> Chernobyl: The Lost Tapes
+   it: Come neve a Natale -> It's Beginning to Look a Lot Like Christmas
+   it: Un finale natalizio da favola -> Christmas Ever After
+   sl: Sveštenik -> Priest
+   sl: Evolucija -> Evolution
+   sl: Pepermint -> Peppermint
+   sl: Rekvijem -> Requiem
+   el: Δωμάτιο με Θέα -> A Room with a View
+   el: Ο Καιρός των Τσιγγάνων -> Time of the Gypsies
+   el: Η Γυμνή Αλήθεια -> The Ugly Truth
+   el: Αν Εχεις Τύχη -> If Luck Favors You
+real Arabic: 41126 (+9551 this run); titles of English guides that have one: 18%
+titles: 10476 unique English, 3828 new | descriptions (36h): 7450 unique, 1338 new
+[en] model ready (spm)
+machine: +60 titles (31720), +252 descriptions (35934, 92% of the next 36h) in 123s

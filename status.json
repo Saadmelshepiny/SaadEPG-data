@@ -1,0 +1,1032 @@
+{
+ "generated": "2026-11-28 09:06 UTC",
+ "files": {
+  "ar_shahid": {
+   "ok": true,
+   "channels": 71,
+   "programmes": 9703,
+   "size_kb": 257,
+   "sec": 0
+  },
+  "ar_osn": {
+   "ok": true,
+   "channels": 65,
+   "programmes": 7592,
+   "size_kb": 365,
+   "sec": 0
+  },
+  "ar_elcinema": {
+   "ok": true,
+   "channels": 101,
+   "programmes": 5035,
+   "size_kb": 183,
+   "sec": 0
+  },
+  "ar_bein": {
+   "ok": true,
+   "channels": 70,
+   "programmes": 5460,
+   "size_kb": 60,
+   "sec": 0
+  },
+  "ar_rotana": {
+   "ok": true,
+   "channels": 7,
+   "programmes": 325,
+   "size_kb": 19,
+   "sec": 0
+  },
+  "ar_aljazeera": {
+   "ok": true,
+   "channels": 2,
+   "programmes": 139,
+   "size_kb": 4,
+   "sec": 0
+  },
+  "ar_beinsports": {
+   "ok": true,
+   "channels": 31,
+   "programmes": 2599,
+   "size_kb": 61,
+   "sec": 0
+  },
+  "ar_roya": {
+   "ok": true,
+   "channels": 7,
+   "programmes": 796,
+   "size_kb": 21,
+   "sec": 0
+  },
+  "ar_art": {
+   "ok": true,
+   "channels": 4,
+   "programmes": 141,
+   "size_kb": 7,
+   "sec": 0
+  },
+  "ar_ayn": {
+   "ok": true,
+   "channels": 4,
+   "programmes": 651,
+   "size_kb": 8,
+   "sec": 0
+  },
+  "ar_snrt": {
+   "ok": false,
+   "error": "empty guide"
+  },
+  "ar_lbci": {
+   "ok": true,
+   "channels": 1,
+   "programmes": 96,
+   "size_kb": 4,
+   "sec": 0
+  },
+  "ar_tunisia": {
+   "ok": true,
+   "channels": 2,
+   "programmes": 153,
+   "size_kb": 5,
+   "sec": 0
+  },
+  "ar_trt": {
+   "ok": false,
+   "error": "no grab output"
+  },
+  "eg": {
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
+  },
+  "ae": {
+   "ok": true,
+   "channels": 812,
+   "programmes": 64898,
+   "size_kb": 1232,
+   "sec": 3
+  },
+  "sa": {
+   "ok": true,
+   "channels": 30,
+   "programmes": 4295,
+   "size_kb": 74,
+   "sec": 0
+  },
+  "bein": {
+   "ok": true,
+   "channels": 78,
+   "programmes": 2600,
+   "size_kb": 31,
+   "sec": 0
+  },
+  "it": {
+   "ok": true,
+   "channels": 156,
+   "programmes": 15760,
+   "size_kb": 1414,
+   "sec": 1
+  },
+  "pl": {
+   "ok": true,
+   "channels": 588,
+   "programmes": 87892,
+   "size_kb": 7678,
+   "sec": 6
+  },
+  "gr": {
+   "ok": true,
+   "channels": 276,
+   "programmes": 20621,
+   "size_kb": 1727,
+   "sec": 1
+  },
+  "fr": {
+   "ok": true,
+   "channels": 393,
+   "programmes": 36325,
+   "size_kb": 2995,
+   "sec": 2
+  },
+  "uk": {
+   "ok": true,
+   "channels": 382,
+   "programmes": 30655,
+   "size_kb": 1307,
+   "sec": 1
+  },
+  "ro": {
+   "ok": true,
+   "channels": 350,
+   "programmes": 17799,
+   "size_kb": 814,
+   "sec": 1
+  },
+  "ua": {
+   "ok": true,
+   "channels": 1142,
+   "programmes": 69972,
+   "size_kb": 1584,
+   "sec": 4
+  },
+  "rs": {
+   "ok": true,
+   "channels": 688,
+   "programmes": 67757,
+   "size_kb": 5738,
+   "sec": 4
+  },
+  "hr": {
+   "ok": true,
+   "channels": 194,
+   "programmes": 18584,
+   "size_kb": 1296,
+   "sec": 1
+  },
+  "ba": {
+   "ok": true,
+   "channels": 229,
+   "programmes": 19392,
+   "size_kb": 1981,
+   "sec": 1
+  },
+  "al": {
+   "ok": true,
+   "channels": 160,
+   "programmes": 10343,
+   "size_kb": 625,
+   "sec": 0
+  },
+  "bg": {
+   "ok": true,
+   "channels": 60,
+   "programmes": 2402,
+   "size_kb": 158,
+   "sec": 0
+  },
+  "hu": {
+   "ok": true,
+   "channels": 170,
+   "programmes": 17401,
+   "size_kb": 1682,
+   "sec": 1
+  },
+  "il": {
+   "ok": true,
+   "channels": 107,
+   "programmes": 7318,
+   "size_kb": 779,
+   "sec": 0
+  },
+  "oe_egypt1": {
+   "ok": true,
+   "channels": 103,
+   "programmes": 4614,
+   "size_kb": 186,
+   "sec": 33
+  },
+  "oe_egypt2": {
+   "ok": true,
+   "channels": 103,
+   "programmes": 4796,
+   "size_kb": 148,
+   "sec": 70
+  },
+  "oe_uae1": {
+   "ok": true,
+   "channels": 812,
+   "programmes": 49690,
+   "size_kb": 1433,
+   "sec": 18
+  },
+  "oe_uae2": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "oe_uae3": {
+   "ok": true,
+   "channels": 66,
+   "programmes": 4962,
+   "size_kb": 121,
+   "sec": 2
+  },
+  "oe_uae4": {
+   "ok": true,
+   "channels": 66,
+   "programmes": 2818,
+   "size_kb": 75,
+   "sec": 2
+  },
+  "oe_uae5": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "oe_uae6": {
+   "ok": true,
+   "channels": 24,
+   "programmes": 1729,
+   "size_kb": 49,
+   "sec": 2
+  },
+  "oe_uaepremium2": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "oe_uaepremium3": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "oe_qatar1": {
+   "ok": true,
+   "channels": 31,
+   "programmes": 1098,
+   "size_kb": 27,
+   "sec": 1
+  },
+  "oe_qatar2": {
+   "ok": true,
+   "channels": 35,
+   "programmes": 1230,
+   "size_kb": 12,
+   "sec": 1
+  },
+  "oe_qatar3": {
+   "ok": true,
+   "channels": 39,
+   "programmes": 1350,
+   "size_kb": 13,
+   "sec": 1
+  },
+  "oe_qatar4": {
+   "ok": true,
+   "channels": 33,
+   "programmes": 2857,
+   "size_kb": 29,
+   "sec": 1
+  },
+  "oe_qatar5": {
+   "ok": true,
+   "channels": 31,
+   "programmes": 3333,
+   "size_kb": 40,
+   "sec": 2
+  },
+  "oe_qatar6": {
+   "ok": true,
+   "channels": 8,
+   "programmes": 106,
+   "size_kb": 1,
+   "sec": 1
+  },
+  "oe_qatarpremium": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "oe_saudiarabia1": {
+   "ok": true,
+   "channels": 132,
+   "programmes": 8383,
+   "size_kb": 263,
+   "sec": 4
+  },
+  "oe_saudiarabia2": {
+   "ok": true,
+   "channels": 132,
+   "programmes": 6056,
+   "size_kb": 180,
+   "sec": 3
+  },
+  "oe_saudiarabia3": {
+   "ok": true,
+   "channels": 5,
+   "programmes": 421,
+   "size_kb": 16,
+   "sec": 1
+  },
+  "oe_saudiarabia4": {
+   "ok": true,
+   "channels": 5,
+   "programmes": 302,
+   "size_kb": 17,
+   "sec": 1
+  },
+  "oe_arabiapremiumar": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "oe_poland": {
+   "ok": true,
+   "channels": 488,
+   "programmes": 41231,
+   "size_kb": 3911,
+   "sec": 5
+  },
+  "oe_poland1": {
+   "ok": true,
+   "channels": 565,
+   "programmes": 37009,
+   "size_kb": 1749,
+   "sec": 4
+  },
+  "oe_poland2": {
+   "ok": true,
+   "channels": 600,
+   "programmes": 42133,
+   "size_kb": 664,
+   "sec": 3
+  },
+  "oe_polandpremium": {
+   "ok": false,
+   "error": "no element found: line 1, column 0"
+  },
+  "sa1": {
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
+  },
+  "aljazeera": {
+   "ok": true,
+   "channels": 1,
+   "programmes": 108,
+   "size_kb": 2,
+   "sec": 0
+  },
+  "de": {
+   "ok": true,
+   "channels": 251,
+   "programmes": 22195,
+   "size_kb": 3134,
+   "sec": 1
+  },
+  "at": {
+   "ok": true,
+   "channels": 136,
+   "programmes": 13842,
+   "size_kb": 2578,
+   "sec": 1
+  },
+  "ch": {
+   "ok": true,
+   "channels": 722,
+   "programmes": 64435,
+   "size_kb": 5316,
+   "sec": 4
+  },
+  "nl": {
+   "ok": true,
+   "channels": 151,
+   "programmes": 16767,
+   "size_kb": 1501,
+   "sec": 1
+  },
+  "be": {
+   "ok": true,
+   "channels": 568,
+   "programmes": 57766,
+   "size_kb": 5863,
+   "sec": 5
+  },
+  "es": {
+   "ok": true,
+   "channels": 225,
+   "programmes": 5447,
+   "size_kb": 669,
+   "sec": 1
+  },
+  "pt": {
+   "ok": true,
+   "channels": 173,
+   "programmes": 15882,
+   "size_kb": 1370,
+   "sec": 1
+  },
+  "cz": {
+   "ok": true,
+   "channels": 530,
+   "programmes": 41117,
+   "size_kb": 4366,
+   "sec": 3
+  },
+  "sk": {
+   "ok": true,
+   "channels": 160,
+   "programmes": 17851,
+   "size_kb": 1801,
+   "sec": 1
+  },
+  "tr": {
+   "ok": true,
+   "channels": 270,
+   "programmes": 21939,
+   "size_kb": 1691,
+   "sec": 1
+  },
+  "tr2": {
+   "ok": true,
+   "channels": 140,
+   "programmes": 13985,
+   "size_kb": 179,
+   "sec": 0
+  },
+  "dk": {
+   "ok": true,
+   "channels": 133,
+   "programmes": 13267,
+   "size_kb": 1697,
+   "sec": 1
+  },
+  "no": {
+   "ok": true,
+   "channels": 125,
+   "programmes": 9685,
+   "size_kb": 855,
+   "sec": 1
+  },
+  "se": {
+   "ok": true,
+   "channels": 123,
+   "programmes": 13346,
+   "size_kb": 1299,
+   "sec": 1
+  },
+  "fi": {
+   "ok": true,
+   "channels": 98,
+   "programmes": 10108,
+   "size_kb": 1087,
+   "sec": 0
+  },
+  "lt": {
+   "ok": true,
+   "channels": 74,
+   "programmes": 8205,
+   "size_kb": 860,
+   "sec": 0
+  },
+  "lv": {
+   "ok": true,
+   "channels": 99,
+   "programmes": 10834,
+   "size_kb": 769,
+   "sec": 0
+  },
+  "cy": {
+   "ok": true,
+   "channels": 80,
+   "programmes": 8578,
+   "size_kb": 400,
+   "sec": 0
+  },
+  "ie": {
+   "ok": true,
+   "channels": 159,
+   "programmes": 17538,
+   "size_kb": 1192,
+   "sec": 1
+  },
+  "sportklub": {
+   "ok": true,
+   "channels": 16,
+   "programmes": 959,
+   "size_kb": 47,
+   "sec": 0
+  },
+  "crowd_ar": {
+   "ok": false,
+   "error": "not made in this run"
+  },
+  "alkass": {
+   "ok": true,
+   "channels": 8,
+   "programmes": 125,
+   "size_kb": 1,
+   "sec": 0
+  },
+  "rytec_it": {
+   "ok": true,
+   "channels": 131,
+   "programmes": 21127,
+   "size_kb": 1216,
+   "sec": 21
+  },
+  "rytec_it_sm": {
+   "ok": true,
+   "channels": 37,
+   "programmes": 3478,
+   "size_kb": 186,
+   "sec": 16
+  },
+  "rytec_gr": {
+   "ok": true,
+   "channels": 77,
+   "programmes": 8392,
+   "size_kb": 718,
+   "sec": 17
+  },
+  "rytec_ro": {
+   "ok": true,
+   "channels": 80,
+   "programmes": 15234,
+   "size_kb": 731,
+   "sec": 17
+  },
+  "rytec_bg": {
+   "ok": true,
+   "channels": 120,
+   "programmes": 10682,
+   "size_kb": 813,
+   "sec": 17
+  },
+  "rytec_hr": {
+   "ok": true,
+   "channels": 69,
+   "programmes": 9652,
+   "size_kb": 933,
+   "sec": 18
+  },
+  "rytec_hr_x": {
+   "ok": true,
+   "channels": 53,
+   "programmes": 9042,
+   "size_kb": 718,
+   "sec": 17
+  },
+  "rytec_hr_sm": {
+   "ok": true,
+   "channels": 123,
+   "programmes": 6771,
+   "size_kb": 811,
+   "sec": 18
+  },
+  "rytec_rs": {
+   "ok": true,
+   "channels": 65,
+   "programmes": 7773,
+   "size_kb": 603,
+   "sec": 17
+  },
+  "rytec_rs_x": {
+   "ok": true,
+   "channels": 82,
+   "programmes": 11534,
+   "size_kb": 880,
+   "sec": 18
+  },
+  "rytec_si": {
+   "ok": true,
+   "channels": 38,
+   "programmes": 4496,
+   "size_kb": 387,
+   "sec": 16
+  },
+  "rytec_fr": {
+   "ok": true,
+   "channels": 63,
+   "programmes": 8037,
+   "size_kb": 954,
+   "sec": 19
+  },
+  "rytec_news": {
+   "ok": true,
+   "channels": 55,
+   "programmes": 12602,
+   "size_kb": 352,
+   "sec": 17
+  },
+  "osn_ar": {
+   "ok": true,
+   "channels": 45,
+   "programmes": 7296,
+   "size_kb": 357,
+   "sec": 0
+  },
+  "art": {
+   "ok": true,
+   "channels": 2,
+   "programmes": 15,
+   "size_kb": 3,
+   "sec": 0
+  },
+  "iptvepg_eg": {
+   "ok": true,
+   "channels": 88,
+   "programmes": 8373,
+   "size_kb": 117,
+   "sec": 0
+  },
+  "iptvepg_sa": {
+   "ok": true,
+   "channels": 138,
+   "programmes": 9234,
+   "size_kb": 40,
+   "sec": 0
+  },
+  "iptvepg_ae": {
+   "ok": true,
+   "channels": 58,
+   "programmes": 4176,
+   "size_kb": 18,
+   "sec": 0
+  },
+  "snrt_site": {
+   "ok": true,
+   "channels": 4,
+   "programmes": 458,
+   "size_kb": 5,
+   "sec": 0
+  },
+  "alwan": {
+   "ok": true,
+   "channels": 1,
+   "programmes": 127,
+   "size_kb": 1,
+   "sec": 0
+  },
+  "mena_unified": {
+   "ok": true,
+   "channels": 35,
+   "programmes": 4012,
+   "size_kb": 83,
+   "sec": 1
+  },
+  "ar_from_eu": {
+   "ok": true,
+   "channels": 76,
+   "programmes": 5210,
+   "size_kb": 193,
+   "sec": 14
+  },
+  "gold": {
+   "ok": true,
+   "channels": 444,
+   "members": 1020,
+   "size_kb": 1147
+  }
+ },
+ "time_fixed_min": {
+  "ar_elcinema": 300,
+  "ar_rotana": 180,
+  "ae": 0,
+  "bein": -120,
+  "oe_egypt1": 120,
+  "oe_egypt2": 0,
+  "oe_uae1": 0,
+  "oe_qatar2": -180,
+  "oe_qatar3": -180,
+  "oe_qatar4": -180
+ },
+ "eu_time_fixed": {
+  "it": 1,
+  "pl": 2,
+  "fr": 6,
+  "ro": 13,
+  "ua": 4,
+  "rs": 171,
+  "hr": 1,
+  "ba": 2,
+  "al": 1,
+  "hu": 1,
+  "oe_poland": 1,
+  "oe_poland1": 1,
+  "oe_poland2": 1,
+  "de": 2,
+  "at": 2,
+  "ch": 7,
+  "nl": 1,
+  "es": 1,
+  "pt": 5,
+  "cz": 3,
+  "tr": 4,
+  "tr2": 2,
+  "fi": 2,
+  "lt": 19,
+  "lv": 3,
+  "cy": 1,
+  "rytec_ro": 1,
+  "rytec_hr": 1,
+  "rytec_hr_x": 3,
+  "rytec_hr_sm": 1,
+  "rytec_rs": 2,
+  "rytec_rs_x": 3,
+  "rytec_news": 2,
+  "ar_from_eu": 2
+ },
+ "copied_schedules_removed": {
+  "oe_qatar4": [
+   "Nat geo hd.qa"
+  ],
+  "oe_saudiarabia1": [
+   "Al Arabiya Business.sa",
+   "Al Hadath.sa",
+   "Asharq.sa",
+   "Rotana Cinema HD.sa",
+   "Rotana Cinema Masr.sa",
+   "Rotana Comedy.sa",
+   "Sky News Arabia HD.sa"
+  ],
+  "oe_qatar1": [
+   "beIN SPORTS MAX 1.qa",
+   "beIN SPORTS MAX 2.qa",
+   "beIN SPORTS MAX 3.qa",
+   "beIN SPORTS MAX 4.qa",
+   "beIN SPORTS MAX 5.qa",
+   "beIN SPORTS MAX 6.qa",
+   "beIN SPORTS XTRA 3.qa",
+   "beIN SPORTS XTRA 4.qa",
+   "beIN SPORTS XTRA 5.qa",
+   "beIN SPORTS XTRA 6.qa",
+   "beIN SPORTS XTRA 7.qa",
+   "beIN SPORTS XTRA 8.qa",
+   "beIN SPORTS XTRA 9.qa"
+  ],
+  "ae": [
+   "ADM.R3.ae",
+   "ADM.R4.ae",
+   "AL-Bernameg.AL-moussekey.ae",
+   "AL.Kahera.Al.Kobra.ae",
+   "AL.RASHEED.RADIO.ae",
+   "AL.Sharg.Al.Awsat.ae",
+   "ALWadi.ALGaded.ae",
+   "Adala.TV.HD.ae",
+   "Aden.Almustakillah.HD.ae",
+   "Aden.TV.ae",
+   "Afaq.TV.ae",
+   "Aghapy.TV.ae",
+   "Ahadu.TV.ae",
+   "Ajman.TV.HD.ae",
+   "Al.24.News.ae",
+   "Al.Aghani.ae",
+   "Al.Ahly.TV.HD.ae",
+   "Al.Ahvaz.TV.ae",
+   "Al.Amal.ae",
+   "Al.Anbar.ae",
+   "Al.Anwar.TV.2.ae",
+   "Al.Anwar.TV.ae",
+   "Al.Aqila.TV.ae",
+   "Al.Arabiya.Business.ae",
+   "Al.Arabiya.FM.ae",
+   "Al.Araby.2.HD.ae",
+   "Al.Araby.HD.ae",
+   "Al.Askandria.5.ae",
+   "Al.Bachaeer.Radio.ae",
+   "Al.Baghdadia.Now.ae",
+   "Al.Bernameg.Al.Aam.ae",
+   "Al.Bernameg.Al.Oropi.ae",
+   "Al.Dawaar.ae",
+   "Al.Dawla.TV.ae",
+   "Al.Delta.6.ae",
+   "Al.Djazair.N°1.ae",
+   "Al.Eshraq.TV.ae",
+   "Al.Fallujah.TV.ae",
+   "Al.Forat.ae",
+   "Al.Ghad.ae",
+   "Al.Haqeqa.Al.Dawliah.(Fact.Int'l).ae",
+   "Al.Hawyah.ae",
+   "Al.Hayah.2.ae",
+   "Al.Hayah.HD.ae",
+   "Al.Hayah.Mosalsalat.ae",
+   "Al.Hayat.ae",
+   "Al.Hiwar.TV.HD.ae",
+   "Al.Horreya.TV.ae",
+   "Al.Iman.TV.ae",
+   "Al.Iraqiya.HD.ae"
+  ],
+  "oe_uae1": [
+   "ADM.R3.ae",
+   "ADM.R4.ae",
+   "AL-Bernameg.AL-moussekey.ae",
+   "AL.Kahera.Al.Kobra.ae",
+   "AL.RASHEED.RADIO.ae",
+   "AL.Sharg.Al.Awsat.ae",
+   "ALWadi.ALGaded.ae",
+   "Adala.TV.HD.ae",
+   "Aden.Almustakillah.HD.ae",
+   "Aden.TV.ae",
+   "Afaq.TV.ae",
+   "Aghapy.TV.ae",
+   "Ahadu.TV.ae",
+   "Ajman.TV.HD.ae",
+   "Al.24.News.ae",
+   "Al.Aghani.ae",
+   "Al.Ahly.TV.HD.ae",
+   "Al.Ahvaz.TV.ae",
+   "Al.Amal.ae",
+   "Al.Anbar.ae",
+   "Al.Anwar.TV.2.ae",
+   "Al.Anwar.TV.ae",
+   "Al.Aqila.TV.ae",
+   "Al.Arabiya.Business.ae",
+   "Al.Arabiya.FM.ae",
+   "Al.Araby.2.HD.ae",
+   "Al.Araby.HD.ae",
+   "Al.Askandria.5.ae",
+   "Al.Bachaeer.Radio.ae",
+   "Al.Baghdadia.Now.ae",
+   "Al.Bernameg.Al.Aam.ae",
+   "Al.Bernameg.Al.Oropi.ae",
+   "Al.Dawaar.ae",
+   "Al.Dawla.TV.ae",
+   "Al.Delta.6.ae",
+   "Al.Djazair.N°1.ae",
+   "Al.Eshraq.TV.ae",
+   "Al.Fallujah.TV.ae",
+   "Al.Forat.ae",
+   "Al.Ghad.ae",
+   "Al.Haqeqa.Al.Dawliah.(Fact.Int'l).ae",
+   "Al.Hawyah.ae",
+   "Al.Hayah.2.ae",
+   "Al.Hayah.HD.ae",
+   "Al.Hayah.Mosalsalat.ae",
+   "Al.Hayat.ae",
+   "Al.Hiwar.TV.HD.ae",
+   "Al.Horreya.TV.ae",
+   "Al.Iman.TV.ae",
+   "Al.Iraqiya.HD.ae"
+  ],
+  "oe_saudiarabia2": [
+   "BBC World News.sa",
+   "Star Action.sa",
+   "Star Movies HD.sa"
+  ],
+  "ar_from_eu": [
+   "Al.Jazeera.Intl..HD.it"
+  ],
+  "oe_uae4": [
+   "Abu Dhabi Classic FM.ae",
+   "Abu Dhabi FM.ae",
+   "Abu Dhabi TV.ae",
+   "Al Emarat TV.ae",
+   "Asianet Cinema.ae",
+   "CGTN China Travel.ae",
+   "CGTN Discovering China.ae",
+   "CGTN.ae",
+   "Concerto TV.ae",
+   "DAZN Ringside.ae",
+   "Emarat FM.ae",
+   "FIFA+ Live.ae",
+   "Geo TV.ae",
+   "KADAK FM.ae",
+   "Kartoon Channel! - Live.ae",
+   "Karyam Nissaram - Live.ae",
+   "M80 Moosa.ae",
+   "Majid TV.ae",
+   "National Geographic Abu Dhabi.ae",
+   "Pet Club TV.ae",
+   "Quran Kareem.ae",
+   "Radio 1.ae",
+   "Radio 2.ae",
+   "Star FM.ae",
+   "StarzPlay Rugby.ae",
+   "That's Rock.ae",
+   "That’s 80s.ae",
+   "Yas.ae",
+   "Zee Aflam - Live.ae",
+   "Zee Alwan.ae"
+  ],
+  "oe_uae3": [
+   "M80 موسى.ae",
+   "أبوظبي كلاسيك إف إم.ae",
+   "إذاعة أبوظبي إف إم.ae",
+   "إذاعة الإمارات إف إم.ae",
+   "برنامج نادي الحيوانات الأليفة التلفزيوني.ae",
+   "تلفزيون كونشيرتو.ae",
+   "دازن رينغسايد.ae",
+   "ذاتس إيتيز.ae",
+   "ذاتس روك.ae",
+   "راديو 1.ae",
+   "راديو 2.ae",
+   "زي أفلام - مباشر.ae",
+   "زي ألوان - البث المباشر.ae",
+   "ستار إف إم.ae",
+   "ستارزبلاي رغبي.ae",
+   "سي جي تي إن.ae",
+   "سي جي تي ان تشاينا ترافل.ae",
+   "سي جي تي ان ديسكفرينغ تشاينا.ae",
+   "فيفا+.ae",
+   "قناة أبوظبي.ae",
+   "قناة القرآن الكريم.ae",
+   "قناة ماجد.ae",
+   "كارتون شانل.ae",
+   "كاريم نيسارام-مباشر.ae",
+   "كدك إف إم.ae",
+   "ناشيونال جيوغرافيك أبوظبي.ae"
+  ],
+  "bein": [
+   "Alkass_7_EN.bein",
+   "NEW_beIN-SPORTS-MAX-05_AR.bein",
+   "NEW_beIN-SPORTS-MAX-06_AR.bein",
+   "beIN_SPORTS7_DIGITAL_Mono_AR.bein",
+   "beIN_SPORTS7_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_MAX1_DIGITAL_Mono_AR.bein",
+   "beIN_SPORTS_MAX1_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_MAX2_DIGITAL_Mono_AR.bein",
+   "beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_MAX3_DIGITAL_Mono_AR.bein",
+   "beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_MAX4_DIGITAL_Mono_AR.bein",
+   "beIN_SPORTS_MAX4_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_MAX5_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_MAX6_DIGITAL_Mono_EN.bein",
+   "beIN_SPORTS_XTRA1_Digital_Mono_AR.bein",
+   "beIN_SPORTS_XTRA1_Digital_Mono_EN.bein",
+   "beIN_SPORTS_XTRA2_Digital_Mono_AR.bein",
+   "beIN_SPORTS_XTRA2_Digital_Mono_EN.bein",
+   "beIN_SPORTS_XTRA_04_bein.com_AR.bein",
+   "beIN_SPORTS_XTRA_04_bein.com_EN.bein",
+   "beIN_SPORTS_XTRA_05_bein.com_AR.bein",
+   "beIN_SPORTS_XTRA_05_bein.com_EN.bein",
+   "beIN_SPORTS_XTRA_06_bein.com_AR.bein",
+   "beIN_SPORTS_XTRA_06_bein.com_EN.bein",
+   "beIN_SPORTS_XTRA_07_bein.com_AR.bein",
+   "beIN_SPORTS_XTRA_07_bein.com_EN.bein",
+   "beIN_SPORTS_XTRA_08_Bein.com_AR.bein",
+   "beIN_SPORTS_XTRA_08_Bein.com_EN.bein",
+   "beIN_SPORTS_XTRA_Digital_09_Bein.com_AR.bein",
+   "beIN_SPORTS_XTRA_Digital_09_Bein.com_EN.bein",
+   "logos-_beINSPORTS8_AR.bein",
+   "logos-_beINSPORTS8_EN.bein",
+   "logos-_beINSPORTSXTRA3_AR.bein",
+   "logos-_beINSPORTSXTRA3_EN.bein"
+  ],
+  "oe_qatar3": [
+   "2023 Alkass 6.qa",
+   "AFC 4.qa",
+   "AFC 5.qa",
+   "afc-6 8-copy.qa",
+   "beIN SPORTS MAX1 DIGITAL.qa",
+   "beIN SPORTS MAX2 DIGITAL.qa",
+   "beIN SPORTS MAX3 DIGITAL.qa",
+   "beIN SPORTS MAX4 DIGITAL.qa",
+   "beIN SPORTS MAX5 DIGITAL.qa",
+   "beINSPORTSXTRA3.qa",
+   "bein.com-05.qa",
+   "bein.com-06.qa",
+   "bein.com-07.qa",
+   "bein.com-08.qa"
+  ],
+  "oe_egypt1": [
+   "إل بي سي آي.eg",
+   "إم بي سي ماكس.eg",
+   "ال دي سي.eg",
+   "ستار أكشن.eg",
+   "ستار موفيز.eg"
+  ],
+  "oe_egypt2": [
+   "LBCI.eg",
+   "LDC.eg",
+   "MBC MAX.eg"
+  ],
+  "oe_qatar2": [
+   "2023 Alkass 1.qa",
+   "2023 Alkass 2.qa",
+   "2023 Alkass 3.qa",
+   "2023 Alkass 4.qa",
+   "NBA DIGITAL.qa",
+   "beIN SPORTS XTRA 04 bein.com.qa",
+   "beIN SPORTS XTRA 05 bein.com.qa",
+   "beIN SPORTS XTRA 06 bein.com.qa",
+   "beIN SPORTS XTRA1 Digital.qa",
+   "beIN SPORTS XTRA2 Digital.qa",
+   "beINSPORTSXTRA3.qa",
+   "bein.com-07.qa",
+   "bein.com-08.qa"
+  ]
+ }
+}

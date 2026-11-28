@@ -1,0 +1,58 @@
+== artonline.tv part 1/1: days=5 delay=0 connections=5
+[info] starting...
+[info] loading channels...
+[info] found 5 channel(s)
+[info] loading api data...
+[info] creating queue...
+[info] run:
+[info]   [1/25] artonline.tv (ar) - art.# - Nov 29, 2026 (9 programs)
+[info]   [2/25] artonline.tv (ar) - art.#Aflam2 - Nov 28, 2026 (9 programs)
+[info]   [3/25] artonline.tv (ar) - art.# - Dec 2, 2026 (0 programs)
+[info]   [4/25] artonline.tv (ar) - art.# - Dec 1, 2026 (0 programs)
+[info]   [5/25] artonline.tv (ar) - art.# - Nov 30, 2026 (0 programs)
+[info]     ERR: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+[info]   [6/25] artonline.tv (ar) - art.# - Nov 28, 2026 (10 programs)
+[info]   [7/25] artonline.tv (ar) - art.#Aflam2 - Nov 29, 2026 (9 programs)
+[info]   [8/25] artonline.tv (ar) - art.#Aflam2 - Nov 30, 2026 (0 programs)
+[info]     ERR: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+[info]   [9/25] artonline.tv (ar) - art.#Aflam2 - Dec 1, 2026 (0 programs)
+[info]   [10/25] artonline.tv (ar) - art.#Aflam2 - Dec 2, 2026 (0 programs)
+[info]   [11/25] artonline.tv (ar) - art.#Cinema - Nov 28, 2026 (0 programs)
+[info]   [12/25] artonline.tv (ar) - art.#Cinema - Nov 29, 2026 (0 programs)
+[info]   [13/25] artonline.tv (ar) - art.#Cinema - Nov 30, 2026 (0 programs)
+[info]   [14/25] artonline.tv (ar) - art.#Cinema - Dec 2, 2026 (0 programs)
+[info]   [15/25] artonline.tv (ar) - art.#Cinema - Dec 1, 2026 (0 programs)
+[info]   [16/25] artonline.tv (ar) - art.#Hekayat - Nov 28, 2026 (24 programs)
+[info]   [17/25] artonline.tv (ar) - art.#Hekayat - Dec 1, 2026 (0 programs)
+[info]   [18/25] artonline.tv (ar) - art.#Hekayat - Dec 2, 2026 (0 programs)
+[info]   [19/25] artonline.tv (ar) - art.#Hekayat2 - Nov 28, 2026 (24 programs)
+[info]   [20/25] artonline.tv (ar) - art.#Hekayat - Nov 29, 2026 (24 programs)
+[info]   [21/25] artonline.tv (ar) - art.#Hekayat - Nov 30, 2026 (0 programs)
+[info]     ERR: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+[info]   [22/25] artonline.tv (ar) - art.#Hekayat2 - Nov 29, 2026 (24 programs)
+[info]   [23/25] artonline.tv (ar) - art.#Hekayat2 - Dec 2, 2026 (0 programs)
+[info]   [24/25] artonline.tv (ar) - art.#Hekayat2 - Dec 1, 2026 (0 programs)
+[info]   [25/25] artonline.tv (ar) - art.#Hekayat2 - Nov 30, 2026 (24 programs)
+[info]   saving to "/home/runner/work/SaadEPG-data/SaadEPG-data/work/out_artonline.tv.1.xml"...
+[success]   done in 00h 00m 01s
+1/5 channels without programmes
+== retry
+[info] starting...
+[info] loading channels...
+[info] found 1 channel(s)
+[info] loading api data...
+[info] creating queue...
+[info] run:
+[info]   [1/5] artonline.tv (ar) - art.#Cinema - Nov 28, 2026 (0 programs)
+[info]   [2/5] artonline.tv (ar) - art.#Cinema - Nov 29, 2026 (0 programs)
+[info]   [3/5] artonline.tv (ar) - art.#Cinema - Nov 30, 2026 (0 programs)
+[info]   [4/5] artonline.tv (ar) - art.#Cinema - Dec 1, 2026 (0 programs)
+[info]   [5/5] artonline.tv (ar) - art.#Cinema - Dec 2, 2026 (0 programs)
+[info]   saving to "/home/runner/work/SaadEPG-data/SaadEPG-data/work/out_artonline.tv.1.retry.xml"...
+[success]   done in 00h 00m 10s
+total 76
+drwxr-xr-x 2 runner runner  4096 Nov 28 08:56 .
+drwxr-xr-x 9 runner runner  4096 Nov 28 08:56 ..
+-rw-r--r-- 1 runner runner   143 Nov 28 08:56 out_artonline.tv.1.retry.xml
+-rw-r--r-- 1 runner runner 59413 Nov 28 08:56 out_artonline.tv.1.xml
+-rw-r--r-- 1 runner runner  3173 Nov 28 08:56 out_grablog_artonline.tv.1.xml
